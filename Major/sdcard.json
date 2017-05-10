@@ -1,0 +1,610 @@
+[
+    {
+        "reviews": [
+            {
+                "review_header": "Works great! Good alternative to Sandisk", 
+                "review_text": "Great and easy transaction!!! Product works great, and seller was awesome! This is my first time buying a Polaroid SD card, and it works just as well as the Sandisk cards I have purchased before.", 
+                "review_comment_count": "", 
+                "review_posted_date": "15 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Kappasig Pi"
+            }, 
+            {
+                "review_header": "Had some issues after taking a picture. The camera ...", 
+                "review_text": "Had some issues after taking a picture. The camera would lock up and then it would ask me something along the lines of recovering the data that wasn't recorded properly. I would lose that picture. It doesn't happen every time I take a picture but this is the first SD card that I've ever had an issue with. Other than occasionally losing a picture, it's a decent product. I had no issues retrieving the pictures off the card. It's just kind of a bummer when you're trying to snap quick pics and then your camera freezes up due to the SD card.", 
+                "review_comment_count": "", 
+                "review_posted_date": "20 Nov 2016", 
+                "review_rating": "3.0 ", 
+                "review_author": " Frank"
+            }, 
+            {
+                "review_header": "Efficient card", 
+                "review_text": "I don't have any other cards to compare, but this card seems to work very well. Colors are good, downloading is fast and precise.", 
+                "review_comment_count": "", 
+                "review_posted_date": "03 Apr 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " Michael A Monarch"
+            }, 
+            {
+                "review_header": "however good", 
+                "review_text": "i had to return it. It was the wrong size. however good product", 
+                "review_comment_count": "", 
+                "review_posted_date": "11 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Ali"
+            }, 
+            {
+                "review_header": "Worked properly", 
+                "review_text": "Worked for my purposes. Came in good order. Have had no problems.", 
+                "review_comment_count": "", 
+                "review_posted_date": "11 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " K. McDowell"
+            }, 
+            {
+                "review_header": "Goes bad quickly.", 
+                "review_text": "Malfunctioned just after the return period ended. Lost the pictures after only using the card for a couple of shoots.", 
+                "review_comment_count": "", 
+                "review_posted_date": "09 Apr 2017", 
+                "review_rating": "1.0 ", 
+                "review_author": " MDM"
+            }, 
+            {
+                "review_header": "No complaints", 
+                "review_text": "Just perfect!", 
+                "review_comment_count": "", 
+                "review_posted_date": "12 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Kim"
+            }, 
+            {
+                "review_header": "Fast data transfer.", 
+                "review_text": "Bought this to use in my Nikon d3100. Works great and much faster than the smaller memory card that I replaced.", 
+                "review_comment_count": "", 
+                "review_posted_date": "10 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " JENNIFER SEVY"
+            }
+        ], 
+        "ratings": {
+            "2 star": "3%", 
+            "1 star": "12%", 
+            "4 star": "6%", 
+            "3 star": "1%", 
+            "5 star": "78%"
+        }, 
+        "price": "$13.99", 
+        "url": "http://www.amazon.com/dp/B01GQHOKEW", 
+        "name": "32 GB Class 10 SD Card - SDHC UHS-I, U1 Memory Flash Card - Up to 80 MB/s by Polaroid"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "An upgrade in READ speed, write speeds vary", 
+                "review_text": "The SanDisk Ultra 80MB/s is a new card that replaces the Ultra 40MB/s. The 80MB/s is the read speed only. SanDisk refers to the write speed as Class 10, which means the card maintains at least 10MB/s continuous write, but does not state a maximum write speed. I tested the following Ultra 80MB/s cards: (2) 32GB, 64GB and 128GB and compare with the previous Ultra 40MB/s cards. I use CrystalDiskMark benchmark (5 passes, 1GB random data) and USB 3.0 card reader. SanDisk Ultra 80MB/s (new version, September 2015) 32GB (1) Read: 94.2 MB/s Write: 43.0 MB/s 32GB (2) Read: 97.7 MB/s Write: 20.9 MB/s 64GB Read: 82.4 MB/s Write: 19.1 MB/s 128GB Read: 97.7 MB/s Write: 38.5 MB/s SanDisk Ultra 40MB/s (old version, 2014-2015) 32GB Read: 47.8 MB/s Write: 19.9 MB/s 64GB Read: 47.8 MB/s Write: 16.2 MB/s READ Speed: Ultra 80MB/s cards exceed 80MB/s read speed and are much faster than the old version. This allows fast downloads from the card to your computer when used with a USB 3.0 card reader. Using USB 2.0 it limits the speed to about 35MB/s. WRITE Speed: Benchmarks can be deceiving! The benchmarks show a big difference in write speed between cards. One 32GB card measured 43MB/s but one from a different source was 20.9MB/s. When writing actual files the write speed varies during transfer. The 128GB card benchmark was 38.5MB/s write, but transferring a large file I see a range between 16-24MB/s throughout the transfer. Only the faster 32GB card was able to maintain above 40MB/s write speed for the duration. There was also a big difference in 512K random write performance between cards (~1MB/s vs 20-24MB/s). Write speed of 15-20MB/s seems to be typical of Ultra cards. They are good for general photography, but not fast enough for extended continuous shooting. Once you hit the buffer limit in the camera it can become very sluggish if the write speed is not high enough. If you only take one shot at a time the write speed speed should be sufficient. I am tempted to remove a star because of the variance between cards, but all cards exceeded their speed ratings. The improved READ speed over the previous version is a benefit. Actual write speed may not be much better than the older cards. You might get an extra fast sample, but do not buy this card expecting outstanding write performance!", 
+                "review_comment_count": "18", 
+                "review_posted_date": "03 Oct 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " Sport"
+            }, 
+            {
+                "review_header": "SanDisk Reliablity And Decent Performance", 
+                "review_text": "SanDisk cards, unless they're fake clones, nearly always perform near the top of their class. And, despite having used a few dozen of them over the years, some of which have been filled/downloaded/erased 100+ times, I've never had a single failure or corrupted file. And that's in sharp contrast to having had many failures from lesser cards that have had much less use. During a vacation in Bryce Canyon, for example, I filled my SanDisk card while out for the day and switched to a backup Transcend card. Everything seemed fine taking pictures and videos with the Transcend until back at the hotel room it turned out to be unreadable in my laptop. Even trying various \"recovery\" programs yielded nothing usable. It had failed and took a bunch of vacation pics and video with it. So, lesson learned, don't try to save money on SD cards unless it's for a non-critical application where you don't care if you lose whatever's on it. That said, the SanDisk Ultra cards are a significant step below the SanDisk Extreme Pro cards in terms of write performance. The published specs are misleading implying the 80 MB/s Ultra is nearly as fast as the 95 MB/s Pro. But the write speeds to the Pro are typically at least twice as fast. If your application is mainly reading the card the Ultra is a good value. If you plan to write large amounts of data and don't want to wait, or shoot high frame-rate raw stills, or high bit rate HD or 4K video, get the Extreme Pro if you can afford it.", 
+                "review_comment_count": "", 
+                "review_posted_date": "15 May 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " EmbeddedFlyer"
+            }, 
+            {
+                "review_header": "Do you know what you're looking for in an SD card?", 
+                "review_text": "Absolutely a great buy. For the money I am very satisfied with my purchase. I think I may share something that a lot of people may not be aware of, since I have informed many family and friends and they said they we unaware and glad I had told them. When shopping for this type of memory card, there are a couple of things on the card to look for. The obvious one being the size of the card, this one being 32gb for instance. It's also extremely useful to know that the very small number with a circle around it is of importance too. This one has a 10 with a circle around it. These cards will have 1-10 on it. The significance is Minimum Serial Data Writing Speed,meaning Class 10 cards have a minimum transfer rate of 10 MB/s. Your card may also display a U with either a I or II in it, signifying the ultra high speed bus (UHS). Now apply this to what you're using this particular card for. I bought it for my trail camera. A class 10 card is used for full HD (1080p) video recording and consecutive recording of HD stills. UHS Class 1 cards are used for real-time broadcasts and recording large HD video files. Other cards would have worked for my trail cam but this one was ideal, and affordable.", 
+                "review_comment_count": "", 
+                "review_posted_date": "26 Mar 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " E."
+            }, 
+            {
+                "review_header": "Reading Speed Is Amazing", 
+                "review_text": "SanDisk is top of the line when it comes to SD cards. Haven't had 1 SanDisk card to ever become corrupt or damage my files so I stand behind their product. Using other SD cards, I lost precious videos of my kids with family to no fault of my own. Moral of the story, pay for the top tier SD card, which is SanDisk. No more worries about losing intimate moments and backing up all my files on a computer because of fear my SD card would fail eventually. * I record 1080p videos all the time & noticed no lag whatsoever. That's including filming moving targets. * Take continuous photos without long wait times. Maybe have to wait 1 second opposed to 4-5 seconds on other SD cards. * Actually increased camera performance with the Class 10 UHS card. Never knew my camera could be this fast without major delays. * Getting around 85.0 MB/s reading speeds, which is way over the specified 80 MB/s.", 
+                "review_comment_count": "", 
+                "review_posted_date": "16 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Karanta"
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "4%", 
+            "4 star": "10%", 
+            "3 star": "2%", 
+            "5 star": "83%"
+        }, 
+        "price": "$13.79", 
+        "url": "http://www.amazon.com/dp/B0143RT8OY", 
+        "name": "SanDisk 32GB Ultra Class 10 SDHC UHS-I Memory Card Up to 80MB, Grey/Black (SDSDUNC-032G-GN6IN)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Great for a point and shoot, not so great for DSLRs.", 
+                "review_text": "The quality of this card is relative to how you plan on using it. I bought it last year to use in my point and shoot digital camera (12MP) while on vacation and it worked perfectly. No, a year later, I've bought a DSLR and found it just wasn't up to snuff. My DSLR (26MP) creates files of too large a size for this card to quickly save. Want to take one picture? Fine, but be prepared to wait 20+ seconds for it to be fully saved onto the card, during which time you will be unable to take any other photos. Want to shoot in burst mode? Forget about it; it's not going to work. What I had been unaware of when I first bought this card is that memory cards have speed ratings which indicate how quickly they can process the data you want to write on them. To further complicate things, there are two types of ratings, Speed Class and Ultra High Speed. Speed classes come in four ratings, C2, C4, C6, and C10, which means they can write data at a rate of 2MB/s, 4MB/s, 6MB/s, and 10MB/s, respectively, or UHS comes in UHS U1 and U3, which writes at speeds of 10MB/s and 30MB/s. The higher the MB/s, the better the card. This card writes at a C4 speed (as indicated by the number 4 encircled by a C on the label). It's a decent speed for smaller files, but considering a RAW photo files can be rather large, if you're shooting high res, RAW files, this is not the card for you. It will absolutely freeze up your camera. If you are interested in an SD card for a DSLR, look at something like the Lexar Professional 600x 32GB SDHC UHS-I Flash Memory Card LSD32GCRBNA600 . Since switching to the C10/U1 Lexar, I've been infinitely more happy with my camera. The Sandisk C4 32GB remains in my point and shoot, where it's better suited.", 
+                "review_comment_count": "", 
+                "review_posted_date": "25 Jul 2015", 
+                "review_rating": "3.0 ", 
+                "review_author": " Sarah S"
+            }, 
+            {
+                "review_header": "Reliable Quality so You Don't Get Caught Without Memory & Miss Important Events!", 
+                "review_text": "I'm not a tech wiz but I'm by no means a complete moron when it comes to technology but I was somewhat distressed to find how little I knew about memory cards. I had received one with a little no frills digital camera a few years ago & had used them already but a recent faux pas brought my ignorance to light. I was at one of my daughter's competitions with my little Panasonic video camera intending to record her show (she does color guard). We had bought the video camera a couple of years ago. It needed a memory card so I just took the one out of my other camera thinking that's what I needed. Here's where not realizing the difference between MB and GB ruined my plans.Trying to record the show, I kept getting the message that the memory was full. Turns out... The card was just 512MB! Those of you in the know are laughing I'm sure...yep, that may be fine for photos but NOT video..So after finding out 1 GB is roughly the same as 1000 MB, I knew what to look for. This card has a good amount of memory. I've recorded several of my daughter's routines and still show as having just under half the memory available. I also have found that you get what you pay for. I bought a generic card that didn't work and another that got corrupted quickly so I only trust SanDisk now! My next step is getting a 32GB and having a backup card at all times!", 
+                "review_comment_count": "", 
+                "review_posted_date": "29 Dec 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " savsmom"
+            }, 
+            {
+                "review_header": "The Key to 5-Star Happiness is: SOLD BY SanDisk / Fulfilled by Amazon", 
+                "review_text": "I see 1-Star reviews being posted for this same card. Take the time to assure BEFORE you Click \"Add to Cart\" that your source is \"SOLD BY SANDISK, FULFILLED BY AMAZON.\" BUY FROM OTHER SOURCES AND YOU MAY GET BURNED* I have four uses for a card like this: 1) Storage for an HP Photo Frame 2) Storage in a Nikon D40 DSLR 3) Storage in a Panasonic Video Camera which shoots H.264 video and writes to a mini-DVD or an SD-Card. 4) Moving images between devices. I want to get this review published ASAP to save others looking for SD and SDHC cards some time. So, I am going to focus on #2 above and edit the review for points 1,3, and 4 above after I use the card in the other devices. This card arrived quickly (Fulfillment by Amazon, sold by SanDisk + Prime Membership)! I ordered two of them, because ordering individual cards was a little less expensive than ordering them in pairs or quads (go figure???). *The reason I wanted to get this review quickly published is because I wanted to help stop others from WASTING HOURS reading negative reviews about cards sold by other vendors that were maybe knock-offs, not the same as the picture, SDHC cards substituted for SD cards, etc. Simply look for \"Sold by SanDisk\" \"Fulfilled by Amazon\" in the product description BEFORE clicking \"Add to Cart.\" Hope in the future that Amazon punishes vendors who ship inferior, counterfeit, or products different than described or pictured. Right now, the only way I see to determine if this might be the case is to S L O W L Y read the 1 and 2 Star reviews for a product. Four or maybe even two years ago, you could comfortably make a purchase based on 4-Stars or above. No more - especially on these commodity products where confusion exists regarding product specifications. [On this product alone: SD vs. SDXC vs. SDHC; Suitability of Capacity; Choice of writing speed for application. For in-depth information see SDCard dot ORG] An overall rating is NO LONGER a sufficient criterion for a purchasing decision since many of these commodity type products have their reviews gamed by paid reviewers. Anyway - just as I was about to order this same card bundled in a two pack, I saw the link for \"38 sellers offer this product\" and clicked the link. Huzzah - here was the same card, less expensive, and SOLD from the MANUFACTURER, SanDisk! The worries about getting a product other than described or represented was eliminated! This product was coming directly from SanDisk and was fulfilled by Amazon. Shipment was quick, and frustration free packaging meant the product was in my hand about 30 seconds after I retrieved that package. 2) I put it in the camera, and the Nikon D40 immediately formatted the card and it was ready for use. The information screen said that it was ready to hold 2.2K (2200) pictures. I held down the shutter in continuous mode, and fired off about 20 seconds of pictures (the D40 shoots somewhere around 3 or 3.3 pics per second in burst mode). There was no stutter, lag, etc. when writing to the card. This SDHC card (remember different format than SD, which was the format available when I bought the camera) worked flawlessly in this little test. I buy only SanDisk or Lexar products, and I can say that media from neither company has ever let me down. The two Lexar cards have stored downloaded and erased around 72K pictures over six years, generally at 300-500 pics per download/erase/format cycle and are still going strong with the original capacity intact. The warranty information enclosed with this SanDisk SDHC product indicates a 5 year warranty in the United States. Warranty periods may be different in other countries. These cards are each pre-packed in a certified Frustration Free Packaging (FFP) mailer labelled Amazon/SanDisk (No. 80-56-10641), and then shipped in a bubble wrap envelope which was 11.25\" x 9\". The bubble envelope seemed too big, but perhaps that size was necessary to accommodate the huge shipping label. I will post some pictures of the package and card. There is NO Cardholder Plastic Case, so you will need to supply your own keeper. --------------------------------EDIT UPDATE for Points 1 & 4 Above 11/14/2013-------------------------------- 1) The card worked flawlessly in a Hewlett-Packard Digital Frame (both versions DF1010v1 and DF1010p1). Hewlett Packard - HP DF1010P1 10.1in LCD Digital Photo Frame, 16:10 Aspect Ratio, 800x480 Resolution, Clock, Calendar Display, Dark Espresso Wood 4) Write speed is very quick from PC to this card. Bursts of over 30 MB/s with an average around 10-15 MB/s. Faster than the Cruzer Flash Drives SanDisk Cruzer Fit 16 GB x2 = 32GB USB Flash Drive SDCZ33-016G-B35-2PK w/ Everything But Stromboli (TM) Lanyard I reviewed elsewhere, but the utility of this SDHC card for moving files is limited by equipment that does not have a built-in card reader. 3) Will update for Panasonic CamCorder soon.", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Nov 2013", 
+                "review_rating": "5.0 ", 
+                "review_author": " Keith R. Douglas"
+            }, 
+            {
+                "review_header": "Get \"card full\" error while attempting to use the card, but the card is completely empty.", 
+                "review_text": "Any time I put this memory card into my camera (Nikon D3100), it says \"card full.\" I have never put any photos/videos/etc on this memory card, because I have not been able to use it; it is definitely not \"full.\" I have formatted it using my camera, and that has done absolutely nothing to change the message I get. Other memory cards work perfectly fine in my camera, so it is not my camera that is the problem. However, on my laptop, it shows that the memory card is empty. My camera is compatible with this memory card. I checked before I bought it. I've even tried the card in other cameras, but I still get the same message. I paid for a 64-gb memory card that does not even work.", 
+                "review_comment_count": "", 
+                "review_posted_date": "16 Aug 2016", 
+                "review_rating": "1.0 ", 
+                "review_author": " Nikki Cupps"
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "5%", 
+            "4 star": "12%", 
+            "3 star": "3%", 
+            "5 star": "79%"
+        }, 
+        "price": "$19.79", 
+        "url": "http://www.amazon.com/dp/B00CXI1EI4", 
+        "name": "SanDisk 64GB Class 4 SDXC Flash Memory Card, Frustration-Free Packaging- SDSDB-064G-AFFP (Label May Change)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "93.53MB/s sequential reads and 56.63MB/s sequential writes", 
+                "review_text": "Works great, very fast, no compatibility issues with devices that support SDXC. Was able to do 93.53MB/s sequential reads and 56.63MB/s sequential writes. The random writes are slower, so this wouldn't be great for an OS (like a Raspberry Pi). But perfectly designed and very fast for a camera recording images or video.", 
+                "review_comment_count": "2", 
+                "review_posted_date": "16 Aug 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " Tim Eckel"
+            }, 
+            {
+                "review_header": "ALERT! These may not be truly UHS-I U3", 
+                "review_text": "I purchase this in order to record 4k on my Sony AX33 using the 100mbs for the highest quality 4k (vs 60mbs). I install the card and I set to 100mbs but, receive a message that I must install a U3 card. That is what I purchased. I did some research online and found a reference where some where having the same issue and others were not. I decided to go to a local store and I found the exact same PNY SD card. I purchased it and tried it at home. Well guess what? It worked! Not errors. I looked at both packages in great detail and only found a few differences. Note the pictures: The SD card on the right DOES work as a UHS-I U3 @ 100mbs the one on the left I purchased from amazon and is NOT recognized as a UHS-I U3. I have attached a video demonstrating the error I receive when trying to use one over the other. PNY Elite Performance 64 GB High Speed SDXC Class 10 UHS-I, U3 up to 95 MB/Sec Flash Card (P-SDX64U395-GE)", 
+                "review_comment_count": "4", 
+                "review_posted_date": "27 Mar 2016", 
+                "review_rating": "1.0 ", 
+                "review_author": " Danny Schultz"
+            }, 
+            {
+                "review_header": "Works perfectly -- and at a great price", 
+                "review_text": "I got this card about 10 days ago and have used it extensively. I was particularly interested in its U3 speed rating, since I shoot lots of 4K video at a speed of 100 Mbps (I use a Panasonic ZS100 camera). So far, this 128GB PNY SD card has worked perfectly, with no hiccups or problems. Even with 4K video at 100 Mbps, it can hold a LOT of video. Good price and no glitches -- excellent product. June 2, 2016 edit: I've now used this card for a month, extensively shooting 4K video. There has not been one glitch with this card -- excellent performance at a great price.", 
+                "review_comment_count": "", 
+                "review_posted_date": "16 May 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " MED-REK"
+            }, 
+            {
+                "review_header": "A reliable, tough card", 
+                "review_text": "PNY is owned by HP. PNY was named after the cities the company started in. Paris and New York. I have 4 more 64GB Elite Performance cards I bought over the past few years. I buy in pairs and load in pairs, using the second one as a back up. But, have not needed it yet. This one is slightly faster and was cheapest of all. Some people report problems with PNY but, I have never had any. I think the people with the problems are handling the cards all wrong on insertion or in general or, more likely, they got fake cards. I teach a basic digital photo class at a university and, I see the most incredible things with cards. One student came in with his split in half! It was a cheap, old, small card but still, how does that even happen? You have to be handling it really badly. Not storing it safely when out of camera (get a card case!) Amazon does not seem to sell the fake ones and mine have been great and have all the same pro capabilities as Lexar and San Disk. Waterproof, shock proof, etc. Not that I let it get to that, ever! The other thing people do not do is to reformat the cards IN the camera they are using them in. If you just stick a card in, it will work. But reformating it in camera (see your menus) ensures it is set up for that camera OS. Do that when you get a new card and before you shoot on it.", 
+                "review_comment_count": "", 
+                "review_posted_date": "18 Dec 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " N. Hyland"
+            }, 
+            {
+                "review_header": "Ok but Not recognized as UHS-I and slower than Sandisk Extreme line....", 
+                "review_text": "My camera does not recognize it as being UHS-I, it is a Sony a6300....none the less the data rates are pretty good but the burst rate is little more than Sandisk's Extreme line and can't hold a candle to any of my Sandisk Extreme Pro's....I can record 4K at 60Mbps but Sony requires UHS-I cards for 4K at 100Mbps and the card is not recognized as such....I generally stick to Sandisk and I suppose this is why. That said I paid 22.99 USD for 64GB's which is a pretty good deal, I probably have a million Sandisk cards but I was hoping PNY could compare. I will try the card in other devices but I did extensive continuous shooting with the a6300's 11fps+ continuous 24MP sensor and the buffer clear a lot slower than cards that were Class 10 but not UHS-I by a slight amount and Sony's UHS-I seemed to be superior with Sandisk Extreme Pro maintaining its deserved status as king. If you just need 64GB's for everything up to 1080p60 at 50-60Mbps and this card is cheaper than Sandisk, Sony, or Lexar then you are absolutely fine, most of you will be shooting AVCHD at 24-28Mbps anyways but if you need true UHS-I or near UHS-II performance look elsewhere.", 
+                "review_comment_count": "1", 
+                "review_posted_date": "03 Apr 2017", 
+                "review_rating": "3.0 ", 
+                "review_author": " nateo200"
+            }, 
+            {
+                "review_header": "Doesn't consistently perform at U3 speed", 
+                "review_text": "I bought this to record 4K video on my Canon 5D Mark IV. Upon receiving it, it worked perfectly fine. However, just days after the return policy expired, the card started intermittently failing to receive data at the required data rate. The U3 speed is a hard requirement of the 4K shooting on this camera with its huge MJPEG files, so if you are buying this \"U3\"-rated card for that purpose, beware that you will find the camera halting during 4K recording sessions with this card due to depleted buffer, presumably as a result of the card performing slower than what is required. I sent the card in to PNY since it does have a lifetime warranty, and they did send me a replacement, but I have reproduced the problem with the replacement. Therefore, I can only assume that the entire product line is below the U3 standard and you're being fleeced by PNY with a false speed rating.", 
+                "review_comment_count": "1", 
+                "review_posted_date": "02 Apr 2017", 
+                "review_rating": "1.0 ", 
+                "review_author": " TJSynkral"
+            }, 
+            {
+                "review_header": "It's Class 10 and it works", 
+                "review_text": "I mean, really, there's not a whole lot to say about a memory card, right? First, it works. Despite that whole base2 vs. base10 storage stuff, this gives you plenty of space on a Class 10 SD card. Oh, and it is Class 10, which is the other thing. I use this in a digital camera where it's kind of important to me to be sure I don't lose pictures. Did not disappoint, even with burst mode. PNY has been a reliable brand for me over the years, both with memory cards and flash drives, and this card just solidified my opinion of them even more. As a side note, I do think it's probably more expensive than it needs to be, but the old adage of getting what you pay for comes into play more often than not with memory cards and flash drives, so I was willing to pay a little more to be sure I got what I needed with no surprises.", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Steven Gregor"
+            }
+        ], 
+        "ratings": {
+            "2 star": "3%", 
+            "1 star": "10%", 
+            "4 star": "9%", 
+            "3 star": "3%", 
+            "5 star": "75%"
+        }, 
+        "price": "$40.77", 
+        "url": "http://www.amazon.com/dp/B00WWBCSG4", 
+        "name": "PNY Elite Performance 64GB Flash Memory High Speed SDXC Class 10 UHS-I (P-SDX64U395-GE)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "90MB/s Read, 50MB/s Write", 
+                "review_text": "I was skeptical about buying a non-pro version of this card but it's clear that it's high quality and and that write speeds are above what they promised. Read: 90MB/s Write: 50MB/s Compared to other cards like the PNY Elite Performance, this card's performance is on par with PNY's 50-60MB/s write speeds. The max rate will depend on your writer, though, and for most cases, DSLRs don't write this fast. As a fact, the Canon 5DM3's SD card write speed peaks at 23MB/s.", 
+                "review_comment_count": "2", 
+                "review_posted_date": "14 Oct 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Jason Hermosa"
+            }, 
+            {
+                "review_header": "Best there is! Top FULL HD Video and More. No need to hesitate Here.", 
+                "review_text": "I did a lot of research to get the best SD card for my use (Mainly video) with my Canon T6i. I am convinced this SD Card is best on the market. The reason it is Labeled *****\"Newest Version\" ******is because they have a new \"Video Speed Class\" rating system V10, V30, V60, V90 which means 10/30/60/90 MB/s (megabytes per second) these are MINIMUM WRITING Speeds for when you are actually recording video or taking pictures. With v30 or higher you get best FULL HD quality video and great 4K. This card is BEST for HD video and fast motion picture taking (sports) because of fast writing speed. So you are able to get more frames in your burst shots or vid. **I uploaded a opening review video to help anyone contemplating this purchase, and share what I've learned.", 
+                "review_comment_count": "", 
+                "review_posted_date": "28 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Lead Review Exchange"
+            }, 
+            {
+                "review_header": "Fast speed, great capacity", 
+                "review_text": "Very fast read/write speeds, and very expansive storage capacity. I bought this for a slightly older digital camera. The memory card we had was slow and only had a fraction of the storage space. I wanted to \"max out\" the memory card we used with the camera, so I went with the largest capacity supported by the camera with the fastest transfer speed available. Shots taken with the camera get saved and processed faster with this memory card, and there is no concern on filling up the storage. Completely satisfied with this purchase.", 
+                "review_comment_count": "", 
+                "review_posted_date": "26 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Sans"
+            }, 
+            {
+                "review_header": "Fixes Write to SD problems on DSLRs!", 
+                "review_text": "I was having trouble with my camera...purchased on black Friday. Apparently, the camera's buffer was filling up and now writing to the current SD. When this happens, the recordings are stopped. This is due to cheap SD or low write speed. This SanDisk card saved the day! Now I can record without issue. If you have experienced an issue with recording on a DSLR, purchase a card like this one with a good Read AND write speed. Both are important. Best part about this purchase is the cost!", 
+                "review_comment_count": "", 
+                "review_posted_date": "30 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " C"
+            }, 
+            {
+                "review_header": "Top marks for SanDisk Extreme media", 
+                "review_text": "I must say, I give top marks for SanDisk Extreme media. I purchased this card on both size and speed. My daughter was going to shoot video of a wedding with my Canon 70D, and I didn't want her running out of space with my 32Gb SDs. I was a bit concerned about speed, but she said that she couldn't make the camera balk. It's was perfect for the job. I can't wait for a sale so I can pick up a couple more. For reference, my daughter shot video for almost 3 hours and didn't run out of space. Granted, it wasn't a continuous shoot, but it was a LOT of video. When she was done, she still had plenty of space left for photos. SanDisk has, and always will be, my only choice of vendors when it comes to SD media.", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Dec 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " AMontcri"
+            }, 
+            {
+                "review_header": "Good quility!", 
+                "review_text": "Very Happy, this is sturdy and I dont get the feeling the card will break easily like my older generic one but also I have noticed a huge increase in the speed at which i can take pictures so I am very happy. I felt like it gave new life to my point and shoot.", 
+                "review_comment_count": "", 
+                "review_posted_date": "21 Dec 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Mar"
+            }, 
+            {
+                "review_header": "best card", 
+                "review_text": "this card works perfectly for my nikon...with my old card, there was a time lapse in-between the picture taking..it takes extra time to write the image on a less performance card...now, it's a rapid fire picture adventure...but you must get the \"extreme with the 10\"...it's pricey but well worth it...and you can even store all your photos (up to 2000-4000) on this card rather than putting on disks...it is shockproof, temperature-proof, waterproof and x-ray proof...great price from amazon, fast service, great product...buy it...", 
+                "review_comment_count": "", 
+                "review_posted_date": "01 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " ccc"
+            }, 
+            {
+                "review_header": "SanDisk Extreme 64GB", 
+                "review_text": "Great price, works with my Canon T3i camera, doesn't slow down when using video or pictures. I always buy the same, or newest version card, they've never failed me (I always purchase again from my orders and it takes me to the newest version). I'm one of those people who stores pics and video on the card so I buy a new card each time it gets full. The price is great for the amount of storage.", 
+                "review_comment_count": "", 
+                "review_posted_date": "05 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Adrienne"
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "3%", 
+            "4 star": "10%", 
+            "3 star": "2%", 
+            "5 star": "84%"
+        }, 
+        "price": "$18.46", 
+        "url": "http://www.amazon.com/dp/B01LORO7Z6", 
+        "name": "SanDisk Extreme 32GB 90 Mb/s SDHC UHS-I Card (SDSDXVE-032G-GNCIN) [Newest Version]"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "I needed some extra memory cards and loved that this came with two", 
+                "review_text": "I needed some extra memory cards and loved that this came with two. I've used SanDisk in the past and have always been pleased with how my photos turned out so I went looking for this brand when I needed to buy new ones. I take super large photos but not sure how many can be taken on each of these as I've yet to fill one up since my purchase. The price was great on these, I'm considering buying a couple more to keep in my camera bag just to have.", 
+                "review_comment_count": "", 
+                "review_posted_date": "24 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Terri Ramsey Beavers"
+            }, 
+            {
+                "review_header": "Serves its purpose very well.", 
+                "review_text": "Perfect for Nikon D7200 dual card slot. DSLR cameras are tricky little devices, I have an arsenal of memory cards. However, only a few of the cards will work with my camera, and thease are in that few. Works perfectly, holds large format photos with no problems. My newest Nikon has two card slots, The second one is there for overflow, and I haven't had to use it yet.", 
+                "review_comment_count": "", 
+                "review_posted_date": "01 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Going To Snap"
+            }, 
+            {
+                "review_header": "SanDisk is Always Reliable and Works Perfectly; Holds About 350 pics", 
+                "review_text": "These memory cards held about 350 pictures each. They allow for great storage until we got them uploaded to the Cloud. The SanDisk products have always been a favorite of my family's and these performed well, the pics are crisp and clear and everything was just as expected; I will be buying them with larger GBs soon.", 
+                "review_comment_count": "", 
+                "review_posted_date": "09 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Marina"
+            }, 
+            {
+                "review_header": "Fine Packaging, and Great Price", 
+                "review_text": "SanDisk SD cards are consistently good, so I was delighted with the price for this two-pack of them for my camera. The packaging is cardboard with a small plastic insert inside, and so easier to open than the blister-packs so commonly found with this type card. I'm thinking of buying more just to have extras on hand, or for portable storage.", 
+                "review_comment_count": "", 
+                "review_posted_date": "11 Nov 2014", 
+                "review_rating": "5.0 ", 
+                "review_author": " Marjie, Mother of 9"
+            }, 
+            {
+                "review_header": "good thing to take on a trip.", 
+                "review_text": "The price was right on these, and they are going to be perfect when I take them on my trip to WAlt disney world. I have already used one of them and it was perfect. Glad I ordered them", 
+                "review_comment_count": "", 
+                "review_posted_date": "24 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Ellen C. Ziegler"
+            }, 
+            {
+                "review_header": "Best. Memory. Card. Ever!", 
+                "review_text": "Perfect for storing home videos, photos, data, spreadsheets, programs, and games. Doesn't like storing water though.", 
+                "review_comment_count": "", 
+                "review_posted_date": "18 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " ZeusMittens"
+            }, 
+            {
+                "review_header": "They're durable and at a great price you can't go wrong", 
+                "review_text": "These work just as well as you'd expect them to. They're durable and at a great price you can't go wrong.", 
+                "review_comment_count": "", 
+                "review_posted_date": "22 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Vince Santos"
+            }, 
+            {
+                "review_header": "Five Stars", 
+                "review_text": "Have used both of them for several months, no problem with either one.", 
+                "review_comment_count": "", 
+                "review_posted_date": "15 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Richard A Nicolai"
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "2%", 
+            "4 star": "10%", 
+            "3 star": "1%", 
+            "5 star": "86%"
+        }, 
+        "price": "$15.49", 
+        "url": "http://www.amazon.com/dp/B00FQMWTGK", 
+        "name": "SanDisk 16GB Class 4 SDHC Flash Memory Card - 2 Pack SDSDB2L-016G-B35 Retail Package"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Sometimes you win sometimes you lose but the card is great when you win.", 
+                "review_text": "This is a great card but its sometimes a gamble if your going to get a real one or a copy rebranded card. I happen to get a fake rebranded card and it was not easy to tell. I contacted sandisk and they verified by the serials and images that it was indeed a fake card. More so I did a test on the card to see if it was a small 4-8gb card or even a real 64. Its a real 64gb card but some cheap china one I assume. You cant always tell by the cards because sometimes they look pretty good. There were a few things that threw me off. 1. the yellow lock switch 2.the serials and images on the back of the card 3. The super gold plates 4. The plastic (real ones will look different) 5. The sticker on the front (off center and not perfect) 6. Speed testing. 7. Gut instincts (varies based on size of gut and experience) I did a heavy load on the card with 50gb of wedding images and it handled it. Next I did a Black magic speed test and ill post the numbers below. I contacted amazon and they have allowed the refund to be made. I cant risk having a low performance card for weddings especially for the price. If you can please double check your cards by verifying it through Sandisk services. All you have to do is email them with the serials on the card. Super easy and they respond within a day. I gave it two stars because amazon service is amazing. I also have some images of a fake and a real card. Hope this helps", 
+                "review_comment_count": "24", 
+                "review_posted_date": "24 Jul 2015", 
+                "review_rating": "4.0 ", 
+                "review_author": " Aleksandr"
+            }, 
+            {
+                "review_header": "great cards", 
+                "review_text": "I have reached advertised speeds on a built-in card reader and a newer digital camera but there are a few things anyone should know when choosing a card. Cards with 32GB or less are SDHC and should work with most devices released in the last few years. SDXC will cover cards with higher capacities, such as this card in 64GB. This is an important consideration to Linux users since SDXC uses exFAT which may not work with your OS. If you have an up-to-date Windows installation or a recent Mac release you will be fine without third party software, though a firmware update may be necessary for your card reader if it's pre-'09. You will not achieve UHF speeds on a USB 2.0 bus - you will see a maximum 20-30MB/S depending on file size and other factors. On many host devices the speed gains are negligible during operation because of fast internal memory buffers - I can burst (9/s) an average of 15 shots in RAW+jpeg on my DSLR with a class 6 card, or 18 with this - so probably not worth the premium price for that gain alone. Video there is no difference since the class 6 can float the 20mbps required for 1080i on my camera. In other words, if you can get the extreme pro in 64GB for the same price as the extreme in 128GB, your money is probably better spent on the extreme, if not on a non-UHF card, which is to say class 6 or 10. It may be noteworthy that this card is waterproof and x-ray proof, but does not specify that it is magnet proof as other brands' documentation does. That said, Sandisk has some of the most robust built-in error checking features in the 'biz and other brands don't really compete in quality if you do some research. My advice is to make sure you can use the extra speed you're paying for - if you don't have a USB 3.0 card reader, a host device with USB 3.0 PC connection, or a built-in card reader on a laptop that's either newer or has a recent firmware update, you may be wasting a fair sum of money here. Also make sure your device says SDXC if you do go above 32GB. Many devices' documentation will explicitly say that it works up to 32GB. It'll just try to format the card over and over if you feed it an SDXC. Hopefully some info here was helpful! Happy hunting", 
+                "review_comment_count": "8", 
+                "review_posted_date": "10 Nov 2012", 
+                "review_rating": "5.0 ", 
+                "review_author": " P. Ballard"
+            }, 
+            {
+                "review_header": "Avoid \"Frustration Free Packaging\" at all costs!", 
+                "review_text": "I recently bought another SanDisk card that seemed off, black housing and only \"MADE IN CHINA\" stamped on the back, no SanDisk logo or serial number. I ran a speed test and on the card that was rated for up to 35MB/s it maxed out at 10MB/s read and write so I contacted Amazon and they made it right. That made me curious about this card that I had already had for over a year. So I tested it and being rated for 95MB/s I get 17.2 MB/s write and 19.2MB/s read. Edit: SanDisk again confirms that my Extreme Pro card is genuine & tell me the slow read/write speeds are due to my card reader. I still advise you to avoid frustration free packaging as the SanDisk Ultra card I received was a counterfeit. Again, thanks to Amazon for allowing me to return it outside the standard time frame.", 
+                "review_comment_count": "13", 
+                "review_posted_date": "10 Dec 2013", 
+                "review_rating": "5.0 ", 
+                "review_author": " D. Cobb"
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "3%", 
+            "4 star": "7%", 
+            "3 star": "2%", 
+            "5 star": "87%"
+        }, 
+        "price": "$38.25", 
+        "url": "http://www.amazon.com/dp/B007NDL54C", 
+        "name": "SanDisk Extreme PRO 64GB SDXC Flash Memory Card with up to 95MB/s (SDSDXPA-064G-X46)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "5-Year Warranty - You Won't Need It", 
+                "review_text": "GENERAL INFORMATION ABOUT SANDISK CARDS SanDisk sells cards in various classes. Basically, the higher the class of card, the faster the SD card saves the file (anywhere from 20 MB/second to 95 MB/second). This is important if you want to take advantage of advanced camera functions such as fast action shots, continuous burst mode and multiple frames per second, and HD video (1080p). Photos are written to your card almost instantly at the higher classes so you'll get your best shot, and you\u2019ll save time moving it all from your camera to your computer. If you use these camera functions with a lower class SD card, you may lose data and experience dropouts and stuttering. ABOUT THIS SANDISK CLASS 4 SD CARDS This is a standard Class 4 SD card with write speeds of 20 MB/second. Unless you take advantage of high end camera functions, you won't need a higher class (i.e. more expensive) card. I have used these cards in point and shoot cameras and game/trail cameras for the better part of a decade. I have also used some other brands. However, I've never had a SanDisk card malfunction like the other cards I've used despite operating in below 0 degree to over 100 degrees conditions (rated to operate in conditions between -13 and 185 degrees) and running them through the washer/dryer. These standard Class 4 cards are completely compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HD video (720p). These cards vary in their storage capacity (2, 4, 8, 16, 32 and 64 GB). CONCLUSION The best thing about these cards is that they come with a 5-year warranty. However, I doubt that you'd ever use it. If you want quality, you can't go wrong with these SanDisk cards. I hope my review helps!", 
+                "review_comment_count": "6", 
+                "review_posted_date": "29 Aug 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " Chip"
+            }, 
+            {
+                "review_header": "SanDisk Flash Memory Cards", 
+                "review_text": "SanDisk is the best! I use SanDisk flash memory cards exclusively with all of my electronics that require them, e.g., trail cameras and other digital cameras. I have never had a SanDisk memory card fail to work and have used them where they were exposed to temperatures ranging from 1 degree (F) to 100 degrees (F) and in the rain and snow. I have several SanDisk memory cards and use them on a daily basis. As a matter of fact, I have four trail cameras operating right now that run 24 hours a day 365 days a year.", 
+                "review_comment_count": "", 
+                "review_posted_date": "29 Dec 2014", 
+                "review_rating": "5.0 ", 
+                "review_author": " Ross1"
+            }, 
+            {
+                "review_header": "SanDisk is reliable card", 
+                "review_text": "Sandisk has served me very well with my 3 cameras. I always keep some of these 8GB cards because I like to use multiple cards instead of one mega card that could malfunction and I lose everything. That said, I have never had a problem with a Sandisk card. Highly recommend.", 
+                "review_comment_count": "", 
+                "review_posted_date": "10 Nov 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " Linda R"
+            }, 
+            {
+                "review_header": "They are ok, next time I will ge a faster card.", 
+                "review_text": "They work OK , but, I would buy a faster card like a (10) SDHC flash memory card. You can just about see the rating marked on the card. I did not know how they were rated at the time I bought them , but, the 8- (4)SDHC work fine. I would like to max out the speed of the camera with a faster memory card like the (10). Next Time America.", 
+                "review_comment_count": "", 
+                "review_posted_date": "14 Mar 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "Fast shipping good price. I didn't pay attention", 
+                "review_text": "Fast shipping good price. I didn't pay attention, so I was surprised to find I was shipped 2. I came back to see if I should return one, but nope, I guess I was suppose to get 2.", 
+                "review_comment_count": "", 
+                "review_posted_date": "16 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Jose Grande"
+            }, 
+            {
+                "review_header": "reliable, but slow", 
+                "review_text": "Never had a problem with a SanDisk card (although I have with others). These are only class 4, so not as fast as others (class 10, for example) if you want to shoot rapid-series stuff.", 
+                "review_comment_count": "", 
+                "review_posted_date": "30 Jun 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " sumthin"
+            }, 
+            {
+                "review_header": "Useful for backup or picture sharing.", 
+                "review_text": "I use these for computer back up rather than bulky external hard drive. Also great for pictures to share with family.", 
+                "review_comment_count": "", 
+                "review_posted_date": "12 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Glendel2"
+            }, 
+            {
+                "review_header": "Good memory cards", 
+                "review_text": "Inexpensive memory card for cameras. Same type cards have held up for years. I expect these will do the same.", 
+                "review_comment_count": "", 
+                "review_posted_date": "09 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Tom Massart"
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "2%", 
+            "4 star": "12%", 
+            "3 star": "3%", 
+            "5 star": "82%"
+        }, 
+        "price": "$12.18", 
+        "url": "http://www.amazon.com/dp/B00FM5E1EY", 
+        "name": "SanDisk 8GB Class 4 SDHC Flash Memory Card - 2 Pack SDSDB2L-008G-B35"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Fast Transfers.. Solid Proformance..", 
+                "review_text": "This SanDisk Ultra Plus 64 GB memory card is not only dependable and super fast, I got it refurbished here on Amazon and saved an amazing 60% off the MSRP of a new card. You can't beat that. When it comes to memory, who cares if it's new anyways RIGHT? As long as it works and works well, that's all that matters. Check this great deal out and all the other amazing values here on Amaozn. Simply search for \"Amazon Refurbished\" and start saving some crazy cash. CHECK IT OUT!", 
+                "review_comment_count": "", 
+                "review_posted_date": "29 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " iPAC\u2122"
+            }, 
+            {
+                "review_header": "Five Stars", 
+                "review_text": "Thank you", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Deborah G."
+            }, 
+            {
+                "review_header": "Five Stars", 
+                "review_text": "nice", 
+                "review_comment_count": "", 
+                "review_posted_date": "05 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Ankha"
+            }
+        ], 
+        "ratings": {
+            "5 star": "100%"
+        }, 
+        "price": "$16.99", 
+        "url": "http://www.amazon.com/dp/B01N9YPY2O", 
+        "name": "SanDisk ULTRA PLUS 64GB SDXC Card UHS-I Class 10 48MB/s SDSDUNC-064G (Certified Refurbished)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Impressive Read/Write speed - Just make sure you have an USB 3.0 card reader", 
+                "review_text": "When I first tested this product ( Transcend Information 32 GB High Speed 10 UHS Flash Memory Card TS32GSDU1 ) around end of last year, I was quite happy with the results. According to CrystalDiskMark v3.01, the card delivered a Sequential Read speed of 20MB/s and Write speed of 19MB/s. This means it far exceeded the minimum speed requirement for a 'class-10' card, which is just 10MB/s in Write. On the other hand, those number are no where close to the '300x' printed on the card, which implies 45MB/s. I suspect that the card reader I used ( Transcend M5 ) was limiting the speed of this card. So recently I re-tested this card using the Transcend USB 3.0 Card Reader (TS-RDF5K) . I was delighted to see dramatic increases in both Read and Write speeds: - Sequential Read speed increased from 20.0MB/s to 34.8MB/s (+74%) - Sequential Write speed increased from 19.0MB/s to 29.0MB/s (+53%) One important point to note: I did my benchmark with the RDF5 card reader plugged in to an USB 2.0 port. The theoretical speed limit for USB 2.0 port is 60MB/s, but in practice the most you can get is around 60%, or 36MB/s. So the maximum speed of my Transcend card is still being limited by the USB 2.0 port. I expect both the Read and Write speeds to be even higher if I can conduct my benchmark from an USB 3.0 port. Just for comparison: - My old Transcend TS16GSDHC10E says 'class-10' but not 'UHS'. It delivers 21.7MB/s in Read and 16.8MB/s in Write, under identical test conditions. - The SanDisk Ultra SDSDU-032G-U46 claims both 'UHS' and 'class-10'. Its Read speed maxed-out at 38.8MB/s, but its Write speed pales at just 12.7MB/s. (See the benchmark results of several SDHC cards I uploaded to 'Customer Images' section) Conclusion: This Transcend UHS card is one of my fastest SDHC cards, together with the HP CG790A-AZ Class 10 SDHC . The two cards are neck-and-neck in terms of Read/Write speeds. But currently the Transcend card is cheaper, which makes it a better value. By the way, I have used at least one dozen Transcend memory cards (including CF, SD and micro-SD) over the past decade, and have never encountered any card failures. So I have no questions about the reliability of Transcend products.", 
+                "review_comment_count": "17", 
+                "review_posted_date": "24 May 2013", 
+                "review_rating": "5.0 ", 
+                "review_author": " NLee the Engineer"
+            }, 
+            {
+                "review_header": "Never had a failure with this brand.", 
+                "review_text": "I am a professional photographer with a bunch of cameras, and I also teach photography and computer science at the local college, so I have and use quite a few memory cards. I have been buying this brand for a while now and have never had a failure. Even the one which went through the wash still works fine, although I do not recommend that treatment as a general rule.", 
+                "review_comment_count": "", 
+                "review_posted_date": "11 Jul 2014", 
+                "review_rating": "5.0 ", 
+                "review_author": " William A. Nolan"
+            }, 
+            {
+                "review_header": "No problem shooting video with my Canon T3i", 
+                "review_text": "Before ordering this, I'd been using SanDisk Ultra 16 GB SDHC Class 10 Flash Memory Card for smooth video capturing. But to my disappointment, my camera Canon T3i would stop shooting video automatically after 20-30 seconds or at the longest a little longer than one minute. After reading many different reviews on different memory cards, I learned that it was the memory card not my camera that caused the problem. Strangely, Sandisk class 6 memory card caused no problem. But as I have only one 8 GB class6 card, I decided to try this Transcend card. It was delivered early enough and I formatted it and started shooting video several times. It continued shooting without stopping for a little over 12 minutes, which I believe is the time limit of my camera, not the memory card. So from now on, for video shooting, I will use this one instead of Sandisk card, which have given me so much headache.", 
+                "review_comment_count": "7", 
+                "review_posted_date": "27 Jan 2014", 
+                "review_rating": "5.0 ", 
+                "review_author": " Steve"
+            }, 
+            {
+                "review_header": "For the price, I thought so what. After testing it, WOW!", 
+                "review_text": "I haven't bought an SD card in some years, and I got this one for less than I paid for just a 2GB card years ago... Yes it's been that long ago. I got it to work with my new Canon Power Shot SX50 HS. I have three Canon cameras, two are DSLR and now this point and shoot camera. I thought nothing about the writing speed until I put one of my older cards in the new camera. With the older cards, after each picture I took, there was a delay with 'camera processing\" or something like that showing up for about five seconds. With this new card, there is no delay. Yes, no DELAY. I was so impressed, I put it into my EOS 60D. In this camera, I never noticed any writing speeds change, but I didn't have any problems with my old SD cards either. The next HUGE change in speed I noticed was when I plugged the new card into my computer. I transferred about 30 full resolution images from the new card in about four seconds. Not hyper speed by any measure but, with my old cards, this would have easily been 10 or more seconds. So, the speed claim is exactly on spot with me. I was so impressed, I have ordered a second one for my EOS 60D to replace the slow 2GB card.", 
+                "review_comment_count": "", 
+                "review_posted_date": "08 Jul 2014", 
+                "review_rating": "5.0 ", 
+                "review_author": " Tim Isenhour"
+            }, 
+            {
+                "review_header": "I am more than happy to use as well as recommend this product to anyone who needs the highest value equipment.", 
+                "review_text": "I use my two cameras on a daily basis for fun and a little profit. I have traveled just about around the world. I demand my equipment work as hard as I do. I wont risk missing a shot or even worse getting the perfect shot and then having the Flash Memory not work. I have been using Transcend 64GB Flash Memory for over a year now. I will not shoot with anything but this Flash Memory. My time and my profits are too valuable to risk with anything but the finest. rechargeable. I am more than happy to use as well as recommend this product to anyone who needs the highest value equipment.", 
+                "review_comment_count": "", 
+                "review_posted_date": "23 Nov 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " JenyP"
+            }, 
+            {
+                "review_header": "Reliable, if only it was on the ballot!", 
+                "review_text": "This 60MB/s 400x Transcend 32GB storage card works perfectly as the temporary backup card for my use with the Street Guardian SGZC12SG video recorder unit. I use larger 64GB Transcend 60MB/s 400x card for regular recording use, just to double the overall time period for recordings. Transcend is reliable, in wide temperature conditions, and that's critical for a car security camera (such as the Street Guardian).", 
+                "review_comment_count": "", 
+                "review_posted_date": "25 Mar 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " danz99"
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "3%", 
+            "4 star": "11%", 
+            "3 star": "2%", 
+            "5 star": "83%"
+        }, 
+        "price": "$9.99", 
+        "url": "http://www.amazon.com/dp/B00FB463E2", 
+        "name": "Transcend 16GB SDHC Class 10 UHS-1 Flash Memory Card Up to 45MB/s (TS16GSDU1E)"
+    }
+]

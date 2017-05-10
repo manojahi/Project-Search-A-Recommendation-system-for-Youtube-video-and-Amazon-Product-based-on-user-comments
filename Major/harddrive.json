@@ -1,0 +1,606 @@
+[
+    {
+        "reviews": [
+            {
+                "review_header": "Solves many \"pro\" level work issues.", 
+                "review_text": "I bought this back up drive primarily to use with my iPad Pro. I transitioned to an iPad for most of my work while I travel and found a big issue was accessing files while not on wi-fi, usually on long flights. Additionally, I often travel to obscure and remote places overseas with no or limited wi-fi. I often work in a group and we have no way of exchanging large files except to continuously swap a portable drive. This unit nicely solves ALL of my issues. Using the My Cloud app, I can open ANY file with a related app (not just photo/video files as some of the promotional material led me to believe) from the drive onto my iPad using the standard export method on iOS. I can also share the device with several workstations, potentially eliminating my file transfer bottleneck (I have tested this with my own machines and will do an update to this review if there are issues once I use this \"live\" with a mix of iPads, Macs and PCs). For anyone wishing to truly use their iPad Pro as a Pro machine and circumvent some of the dumb limitations Apple still has baked into iOS for file management, this is a perfect solution. My only wish is that it would work with iCloud Drive. The drive is imminently portable at just 1.0lb. Its just slightly larger and heavier than a SuperDrive. It comes with a USB 3.0 cable and a small power brick (about the size of a 12w iPad charger). Edit/Update: After a week of using this, I concur with some of the other reviewers about problems/issues with this device. I have my media in the format required by Plex to avoid transcoding, but I still have yet to get it to successfully stream media using Plex. I CAN, however, watch movies through the iPad version of the WD My Cloud app, so for me this is not a big deal. The connection to my iPad/iMac gets very buggy when I try to use Plex. It locked up the device and required a hard reboot to get going again. I didn't buy this for Plex Streaming, so I'm not too concerned. For use with my non-media files for productivity on my iPad Pro, I stand by my original review - it is outstanding. For media streaming USING PLEX, its a big disappointment - I wouldn't buy it if that is your main intended use. Perhaps there will be a fix in a future GUI/firmware update. Edit/Update #2: The device I mentioned above stopped working and would lock up after about 30 minutes of use. All six blue lights on top of the unit would flash. I am happy to report that the second unit I received (over a week ago) has been put under heavy use and is working very well. The WD customer support team were really very helpful and understanding and were very quick to replace my drive. If you are having issues, send it back. Perhaps there was an issue with the first batch of drives?", 
+                "review_comment_count": "1", 
+                "review_posted_date": "23 Jun 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " AppleFreak"
+            }, 
+            {
+                "review_header": "Excellent idea, good implementation with some issues", 
+                "review_text": "The HD works right! I had some trouble in last firmware upgrade, but I restarted it and was solved. The last firmware version (1.02.24) solved a lot of issues and its very good now. If you use Wi-Fi AC or N with 5Ghz you don't have issues, but 2,4GHz N can have some issues due interferences. Some things to improve: The App (for iOS) don't has all the WebUI features; The SD Card reader is a little bit slow (I'm using a Sandisk Extreme SD Card); I have too a WD My Cloud Duo, and if you are copying some files between My Cloud Duo and My Passaport Wireless using the App, you MUST leave the app in Foreground and can't use the iPhone/iPad until this copy ends. The same occurs when copying files from/to WD Devices to OneDrive, DropBox and when you are uploading photos from iPhone to WDs. In general, this is a very good product that delivers what was promised in datasheet.", 
+                "review_comment_count": "", 
+                "review_posted_date": "06 Jan 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " Alexandre Coconesi"
+            }, 
+            {
+                "review_header": "Great drive worked great for me...", 
+                "review_text": "Had a little problem with shipping but as usual Amazon took care of the problem. From what I can tell the majority of bad reviews seem to be rooted in the understanding of how to setup this drive, update it to latest firmware and media format (Optimized)... if you do all of that correctly this drive works like a champ plays the installed Plex Media Server great. I recently took this device loaded with a selection of movies for kids and some for the grown ups on a Cruise... my grand kids cabin was two cabins away from the My passport drive and they where able to log into Plex with their Ipads and watch Kids movies while their parents did the same thing ,.. it was a cold windy day at sea and the cabin was the best place to hang for a couple hours... I plugged the drive into Ac power and left it that way all week Accessing Music and videos from the Plex media server in both cabins... at one point we had 5 different devices access Plex from this great little wifi drive. After the cruise we had a 4hr wait in LAX and I simply turned it on using the battery power for all to access as they wanted... it was really great to keep the kids occupied during the layover... once aboard the play I left the drive on in my carry on which was in the over head and the drive performed great. I know that a lot of folks had problems and I can see how it might have been difficult... I ended up adding a wifi adapter to my desk top which makes using the drive much better than trying to use an Iphone to set the drive up... it can be done on an Iphone but much easier to use the WD software on the desktop, especially to install, configure and maintain the plex optimized files... I used the same PC that my Plex media server is installed on. I had difficulty logging onto my home wifi nework... the way to go is to use a wifi enabled PC/laptop... using a wifi enabled PC allowed me to do everything including bridging to the internet to update the Plex meta files. I love this drive it works great once set up adding new media is a bit clunky because of the need to optimize the files but once done it is great. I used Plex, Handbrake and MCeBuddy to optimize the files all worked but MCebuddy worked best for me because it will drop the completed optimized files right on the My Passport drive as long as it is plugged into the network and accessible to MCEBuddy I still needed to connect to the PC/Plex(internet) to update the Plex library on the WD My passport drive to update/enable newly added media... this happens via the wifi nework... it all worked just like you are used to in Plex I gave it five stars because it worked so well for my needs ...once setup", 
+                "review_comment_count": "", 
+                "review_posted_date": "08 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " JJ"
+            }
+        ], 
+        "ratings": {
+            "2 star": "12%", 
+            "1 star": "23%", 
+            "4 star": "16%", 
+            "3 star": "12%", 
+            "5 star": "37%"
+        }, 
+        "price": "$179.90", 
+        "url": "http://www.amazon.com/dp/B01F5LVTPS", 
+        "name": "WD 3TB My Passport Wireless Pro Portable External Hard Drive - WIFI USB 3.0 - WDBSMT0030BBK-NESN"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "PS4 Pro", 
+                "review_text": "What more do i need to say. Bought it for use on my PS4 Pro and installed it in the Pro when i got it. Works great and you will notice things do load faster. Just remember you will need to download the current firmware for PS4 (pro & original use same firmware) and it needs to be full firmware download (the one thats over 900mb) to setup the PS4 operating system. Use a USB and make sure you download the file directly into the folder itself (PS4 > UPDATE > then the file). Dont forget to do a system to system transfer if you have a PS4 already that has games and things on it. It will take a couple hours (around 2 or 3 hours usually), but if you play MMOs (FFXIV, Star Trek, Warframe, Elder Scrolls and so on) it will take longer unless you delete the games off your system before doing the system transfer. Thats because MMOs have a ton of files from always being updated and its just easier to redownload them from PSN. You can also use that same process if your someone who likes to backup your files on an external drive.", 
+                "review_comment_count": "3", 
+                "review_posted_date": "09 Dec 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Bronxchulo"
+            }, 
+            {
+                "review_header": "Perfect for PS4 memory upgrade.", 
+                "review_text": "I purchased this to upgrade the internal memory of my son's PlayStation 4. I worked and I'm the best mom ever. :)", 
+                "review_comment_count": "", 
+                "review_posted_date": "21 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Stella Luna"
+            }, 
+            {
+                "review_header": "Great drive at an incredible price.", 
+                "review_text": "I installed this 2TB into myMacBook (13-inch, Mid 2009) and it went in smoothly without any problems. It was a huge improvement over the stock 160GB drive on both size and speed. I'm very happy with the price point and performance of this drive and highly recommend it if your in the market.", 
+                "review_comment_count": "", 
+                "review_posted_date": "20 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " JR"
+            }, 
+            {
+                "review_header": "Understand the characteristic of SSHD", 
+                "review_text": "How come there is no any comment mention that the performance of this kind of SSHD is only good for playing game but lousy as a regular hard disc? No wonder it emphasized on Gaming SATA. Please see the performance comparison between my original Toshiba 1T HD and this Seagate 1T SSHD running in my hp Envy laptop. FYI, so you don't learn it the hard way.", 
+                "review_comment_count": "1", 
+                "review_posted_date": "27 Mar 2017", 
+                "review_rating": "3.0 ", 
+                "review_author": " iMouth"
+            }, 
+            {
+                "review_header": "Excellent solution for PS4 users", 
+                "review_text": "So far so good! I'm a PS4 owner who was quickly running out of space thanks to those larger titles. Get used to it, they'll only get bigger and bigger as time goes on. I did run into a HECK of a lot of trouble getting the PS4 to initialize with this drive, so here's some tips that ultimately worked for me: - Download the FULL file from the Playstation site, mine was around 870 mb for the most current update. There's a much smaller file, around 400 mb I believe it was, that will NOT do the trick for a new HD. - Your drive must have 2 GB of free space and it must be FAT32. I tried this on a 1 GB FAT32 drive, no luck. Tried on a 500 GB external drive, but it wasn't FAT so no luck. Formatted that drive to FAT32 and finally had success. - Toss that 870+ mb file on the drive in a folder named UPDATE within PS4. So it should be Drive -> PS4 -> UPDATE -> file Be sure to backup your PS4 as it definitely is a huge help especially in regards to system settings if you tweaked those, and if you're a Plus user your saves should be in the cloud but always a good idea to have a 2nd backup. In regards to performance of the drive, it's decent. I don't notice a drastic increase in read speed from the PS4, but there is a noticeable difference when loading up those larger titles like Final Fantasy. The big question now will be reliability, but so far so good and any major problems would've normally happened already, so thus far a great drive.", 
+                "review_comment_count": "", 
+                "review_posted_date": "11 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Ron"
+            }, 
+            {
+                "review_header": "Great Upgrade for Non-Pro PS4 Versions", 
+                "review_text": "Bought this for first gen PS4, which only has a SATA2 connector. This is pretty much the best option for non-pro PS4s. The cache in hybrid drives like this can cut boot times by a significant fraction due to lower latency (vs preinstalled drive). Which is about the best you can do. You could buy a more expensive SSD, but the SATA2 interface will keep you from seeing speed benefits. You still get some improvement over the preinstalled drive, but no more than buying this. PS4 Pro uses the newer SATA3 interface, and as a result, doesn't bottleneck a SSD. If you want speed for a PS4 Pro, get a Crucial MX300 525GB SATA 2.5 Inch Internal Solid State Drive - CT525MX300SSD1 (or whatever their current offering is when you read this) or other cheap SATA SSD.", 
+                "review_comment_count": "", 
+                "review_posted_date": "05 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " John T."
+            }, 
+            {
+                "review_header": "Five Stars", 
+                "review_text": "Works perfectly for my PS4", 
+                "review_comment_count": "1", 
+                "review_posted_date": "02 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Cesar Meza"
+            }, 
+            {
+                "review_header": "Great for a PS4", 
+                "review_text": "Breathes new life into my PS4 - put nearly every game I own on it and still shows 1.2 TB available! I was trying to decide between this upgrade and getting a PS4 Pro. $400 for a Pro would only double the drive size of my PS4. For a fraction of the cost I quadrupled my space with faster load times as well. While the Pro is nice, right now there are limited games that take advantage of its capabilities, and I don't have a 4K monitor. With a 5 year warranty this drive should materially extend the useful life of my PS4!", 
+                "review_comment_count": "", 
+                "review_posted_date": "31 Dec 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " mrbb"
+            }
+        ], 
+        "ratings": {
+            "2 star": "3%", 
+            "1 star": "9%", 
+            "4 star": "10%", 
+            "3 star": "4%", 
+            "5 star": "74%"
+        }, 
+        "price": "$106.95", 
+        "url": "http://www.amazon.com/dp/B01M1NHCZT", 
+        "name": "Seagate FireCuda Gaming SSHD 2TB SATA 6.0Gb/s 2.5-Inch Notebooks / Laptops Internal Hard Drive (ST2000LX001)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Good, practical desktop drive", 
+                "review_text": "I gave this drive to someone as a gift, and they've been using it for backups for 10 months without issue. My review is based on another unit of this drive which I bought for myself some months later. I've been using it as my primary desktop OS/programs drive since 5/29/2014, so it's about 5 months now. There have been no problems thus far. It's really quite a bargain for desktop use if 1TB is all you need. The actual capacity of this drive is 931.5GB. That's an old marketing trick which can be blamed for the pointless redefinition of all our real, long established data measurements with those silly \"i\" characters. I won't dwell on it any further, but 931GB is the true capacity when measured in base 2, as all data is correctly measured. This 1TB Blue drive uses a single 1TB platter spinning at 7200rpm. There are 2 heads (each side is 500GB). A single platter design is usually better for reliability than having multiple smaller platters, because there are fewer points of failure, the assembly is lighter, the motor doesn't have to work as hard, and less heat is generated. Single platter drives will also tend to be quieter, but due to my configuration I can't judge the noise level. There has been much discussion and testing among users in online forums, including WD's forum, which repeatedly show that the 1TB Blue and 1TB Black perform the same. It appears the only benefit of the 1TB Black is a longer warranty. Some Blacks are faster than this drive, but the 1TB model is not. Compared to a Green, the Blue is faster owing to it's faster rotation speed. The Green drives also have an \"intellipark\" feature which causes them to keep parking the heads after a few seconds of inactivity. This can cause laggy response and extra wear. I dislike that design - I believe power management functions should be left under the control of the operating system, which can account for user preferences and what is happening in the rest of the system. Hardcoding this behavior into the drive is ridiculous, in my opinion. The Blue behaves the way I prefer - it does not use \"intellipark\", it stays ready to roll until directed otherwise through power management commands from the OS. I wish they were making the Blue series in larger sizes - it seems this 1TB is the end of the line. I don't care for the Greens and the Blacks are more expensive. Partition/Sector Alignment -------------------------------- Please be aware that like most modern drives, this drive uses 4KB sectors (also known as \"advanced format\"). If you are using Windows 2003, Windows XP or older, as I am, don't let Windows handle the partitioning of this drive. This is even an issue on unpatched versions of Vista and Windows 7. These older versions of Windows will believe that the physical sectors are 512 bytes, when in reality they are 4KB. As a result, the partition(s) will not be aligned with the physical sectors. It will still work, but performance will be reduced. Windows Server 2003 and Windows XP and older do not have any update to fix this, but it's not a problem as long as you do the partitioning with a suitable 3rd party utility. I think Western Digital offers a tool for this, but I've never tried it. Once the partitions are set, it's fine to let Windows format them. For my Windows XP install, I used a recent version of GParted to partition the drive. GParted can be downloaded and burned to a bootable CD, or installed to a USB flash drive. Just use the option to align your partition(s) on 1MB boundaries. This is the easy way to ensure they are aligned correctly for the best performance. Then boot your WinXP install disc and let it format the partition that you already created. It sounds harder than it is, it's a minor hassle but it's simple. If you ever change the partitions, once again use GParted or a similar utility that handles alignment for modern hard disks. Don't use the built-in XP partitioning. But again, once the partitions are created, it's fine to let Windows format them. The built-in partitioning is fixed in Windows 8. According to Microsoft, it is fixed in Windows 7 after installing Service Pack 1 - you would need to have that service pack before partitioning the drive, not after. Again according to Microsoft, it is also fixed in Windows Vista *after* installing update MS KB 2553708 - I assume this is automatically installed for people who use automatic updates, but I don't know that for a fact. This won't do you any good if you're doing a fresh install and your install disc predates the required update. The partition alignment detail I've described above is an issue you will encounter with any recent hard drive, it's not unique to this model. If you ignore it, performance will be affected but it will still work. You may see Seagate drives implying that they are immune from this, but in reality, they are not. All modern \"advanced format\" drives, of any brand, will perform better if sectors are properly aligned. But it's not a big deal - just use a modern partitioning utility and then you're set. ---------------------- I just tested this drive using \"Roadkil's Disk Speed\" on Windows XP 32-bit. I'll cut out all the variables and just give the linear transfer results with large block sizes. My drive has a few partitions and there are lots of files on it, so this might affect results. First partition (first 20GB): 170-178MB/sec linear read 3rd partition (physical location range is from 28-628GB): 153-177MB/sec linear read Last 300GB is unpartitioned so I can't test that range. I don't think the random access test is useful, because my partitioning greatly influences the result. There's a test mode for the whole physical disk, but it's results are too inconsistent. This drive is a great bargain if you just need a simple, inexpensive, well performing 7200rpm hard disk. I was tempted to try a Seagate SSHD, but I couldn't justify the cost compared to this. If I was shopping today, I'd look carefully at the HGST and Toshiba offerings as well, but from the WD side this is my pick for a general purpose 1TB desktop drive. Update: It is now 11/2015. This drive is in my desktop PC, used daily, and still works fine. Some months ago I ran a benchmark on this drive using the linux utility \"gnome-disks\". The random access performance measured out to a 15.7ms average. This is mediocre, but expected from a quiet drive. Screenshot is attached. It also shows the transfer rate across the disk (read test only, I didn't test writes).", 
+                "review_comment_count": "2", 
+                "review_posted_date": "26 Oct 2014", 
+                "review_rating": "5.0 ", 
+                "review_author": " m6502"
+            }, 
+            {
+                "review_header": "Sorry I waited so long to get a large storage drive like this.", 
+                "review_text": "Worth every cent. I had been putting off buying a much larger stroage drive. Finally got one now I can store much more for much longer, get bulk files off of my work drives etc. This drive is a storage drive, not a performace drive. I use it to store files, movies etc. For gaming, and the such, I either use my SSD or my WD BLACK hard Drive. I am glad I picked this up, I have not had a single issue with it, and it has freed me up to do more with my other drives as I no longer have to have them filled up with large files I rarely use. Below are the color codes for WD drives. I do not know how different their performance are from one to another or if it is all marketing, but here it is. BLUE = Solid performance and reliability for everyday computing. BLACK = Maximum performance for power computing. RED = Increased workloads and reliability. PURPLE = Designed for Surveillance DVR storage. GOLD = WD Gold HDD is designed for Servers", 
+                "review_comment_count": "", 
+                "review_posted_date": "19 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Red"
+            }, 
+            {
+                "review_header": "XBOX ONE USE? You Better Believe it.", 
+                "review_text": "I had recently purchased an external hard drive case that is usb 3.0 and I used an old Seagate 1TB Barracuda I had laying around to expand my sons hard drive on his xbox one. Unfortunately the old seagate didnt stand a chance...It worked for a few weeks and then I got the dreaded TICK TICK TICK noise...hard drive platter was ruined...Not sure what happened. Anyway, I already had the 3.0 enclosure with fan so I opted to get another bare hard drive to install in there. I have always had Seagates and to be honest this is the first that has failed me. But it is indeed 8 years old. I installed the new WD in the enclosure in less than 2 minutes and plugged it in. I formatted it for xbox one and installed his games there. We played a few games and everything works like a charm. With the 6GB transfer rate I dont think its going to be an issue. Granted this is day one. I write a ton of reviews so I will be back to let you know if there is any changes in the hard drive. PRICE: For what I have invested in the hard drive and the fan cooled enclosure it is still cheaper than buying an external hard drive. Not by much as they are getting cheaper, but some. INCLUDED: You should know all you are getting is the hard drive..There is nothing else in the box. No instructions or cables or plugs or whatever you need to use for your project. This can be installed in a desktop PC that takes a 3.5 hard drive or a 3.5 hard drive enclosure. If you are unsure on how to install this please google it..Remember you live in a \"video\" era and you have unlimited knowledge at your fingertips. EASE OF USE: Simple PLug and Play ...You will need to format it for the xbox one. Put it in a 3.5\" USB 3.0 enclosure and plug it in. Then follow the onscreen prompts. Its as easy as clicking a button. Like I said before I have always been a Seagate fan because that is the first brand I got 8 years ago and it lasted this long. This is the first WD I have had so I am keeping my fingers crossed on this one. I do hope this review helps someone out there. If you have any questions, please feel free to ask. If you found my review helpful, let me know. Lets keep making better buying decisions together. Thank you for reading and as always Be Safe & Happy Shopping!!", 
+                "review_comment_count": "3", 
+                "review_posted_date": "03 Jul 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " Steven Housden"
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "6%", 
+            "4 star": "12%", 
+            "3 star": "3%", 
+            "5 star": "78%"
+        }, 
+        "price": "$49.99", 
+        "url": "http://www.amazon.com/dp/B0088PUEPK", 
+        "name": "WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch Desktop Hard Drive (WD10EZEX)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Working as intended for PS4.", 
+                "review_text": "I bought the 2TB version and it does work with the PS4 (current version 4.50). At first it said it didn't support it but after I restarted my PS4 it worked. Currently works as intended. There's 1.84TB usable after formatting. It took 19 minutes to transfer 3 games (118.3 GB) over from the internal hard drive to this external hard drive. Will update if anything arises.", 
+                "review_comment_count": "7", 
+                "review_posted_date": "10 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "Good choice, but there are better alternatives. DETAILED info for Wii U, PS4, XBOX owners!!", 
+                "review_text": "I've often complained about Amazon rating system for tech products and external USB hard drives are great example of the problem. Simply, it's saturated market with lots of viable options, while impact of \"picking wrong\" is quite profound. You can wake up one day and find out that your data is gone. Reviews here don't help much: you read 1 star review saying \"drive arrived dead\", then you have 5 star review saying \"drive is great\". Which one to trust? Especially since I would prefer \"dead on arrival\" HDD to one that dies after 1 year of working. In my case - now that Nintendo Switch is coming - I wanted to download all digitally purchased games I have for Wii U and store them along with save games on one drive. Testing tech components is a hobby of mine and I've decided to go all in - purchasing 3 external HDD drives so I can test how they work and pick the best one. The drives I've tried out are: WD 1TB Black My Passport Portable External Hard Drive - USB 3.0 - WDBYNN0010BBK-WESN https://www.amazon.com/Black-Passport-Portable-External-Drive/dp/B01LQQHI8I/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=pers0nal-20&linkId=8ae37a7d7b9d5f8cf95b8b36f9e0e5e1 HGST Touro S 1TB 7200RPM High-Performance Portable Drive, Platinum (0S03694) https://www.amazon.com/HGST-High-Performance-Portable-Platinum-0S03694/dp/B00IVFDQFM/ref=as_li_ss_tl?s=pc&ie=UTF8&qid=1487637450&sr=1-1&keywords=hgst+external+1tb&linkCode=ll1&tag=pers0nal-20&linkId=d813ac13cad5cfa89dd1cbc0bd5e087e Seagate Expansion 1TB Portable External Hard Drive USB 3.0 (STEA1000400) https://www.amazon.com/dp/B00TKFEEAS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=pers0nal-20&linkId=760fd69a7e53bfff98e624d465627daf Now, on the Seagate drive I'm reviewing here - it's pretty solid HDD. Read/write statistics (90+MB/s) are great for the price. HGST (Hitachi) Touro beats it performance-wise but it's $30+ more expensive. What is more important are peripherals - HGST spins on 7200 rpm so it also draws more power. Which is quite important because of known problems with Wii U supplying enough power though it's USB ports. Y cable is a must for worry free operation regardless of which external drive you pick for your Wii U: https://www.amazon.com/Micro-B-External-Seagate-Toshiba-Hitachi/dp/B005M0ICG2/ref=as_li_ss_tl?s=pc&ie=UTF8&qid=1487708286&sr=1-1&keywords=y+cable+wii+u&linkCode=ll1&tag=codeproject-20&linkId=cbd46736cfae87a00345b789f6fc5907 During normal usage I couldn't notice any difference between 3 HDDs on Wii U. Probable cause are 2.0 USB ports that are on Wii U - simply there is not enough throughput for performance differences to be visible. The biggest issue I have with Seagate is historical fail rate. Few years ago Seagate drives had 15%+ fail rate which is catastrophic. I bought Seagate Central HDD in 2013 only to replace it a year later. That's also why I got WD and HGST to test - historically those brands have lower fail rates for their drives. HGST is way better than both Seagate and WD; but unfortunately you won't find it in stock here on Amazon as much as Seagate and WD. This is probably because WD owns HGST/Hitachi and wants to push WD as consumer brand. In the end, my pick is WD 1TB Black My Passport. Looking at historic data, warranty info and number of 1 star reviews here on Amazon I felt more confident in storing data on that drive. Seagate HDD is solid pick and great value, but if for same amount of money you can get hard drive that has lower fail rate and better warranty - why wouldn't you buy it instead? I avoid linking externally from Amazon because those often get edited out of review. But if you want more data - like historic fail rates, more testing info and answers to your questions, leave a comment on this review and I'll be glad to respond and help! And if this review helped you, please like it ;). Here are also answers to few questions that I see are often asked on this HDD: * This drive will work as expansion storage for consoles. This includes Wii U, PS4, Xbox One. So will WD drive that I recommend. * You can no longer use this HDD to replace PS4 internal hard drive. Seagate has removed internal SATA connection. I am somewhat confused why people were doing this. 7200 RPM laptop drives would be much better choice because of performance considerations. Like this one: https://www.amazon.com/Black-Performance-Mobile-Hard-Drive/dp/B01DOL05OC/ref=as_li_ss_tl?s=pc&ie=UTF8&qid=1487707269&sr=1-3&keywords=wd+hard+drive+laptop&linkCode=ll1&tag=codeproject-20&linkId=c409c09ff004693c145d4790073d011e * This drive is compatible with Mac OS X, backwards compatible with USB 2.0, etc. In a nutshell this is standard 2.5 inch (laptop) NTFS-formatted, 5400 RPM HDD with USB instead of SATA interface.", 
+                "review_comment_count": "7", 
+                "review_posted_date": "21 Feb 2017", 
+                "review_rating": "3.0 ", 
+                "review_author": " Nobod"
+            }, 
+            {
+                "review_header": "Works with PS4", 
+                "review_text": "Bought to upgrade my stock PS4 hard drive. Formatted, installed software, and transferred backup. Can confirm I backed up to an internal hard drive using an external drive dock. Works perfectly.", 
+                "review_comment_count": "41", 
+                "review_posted_date": "30 Apr 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " B. L. Baca"
+            }, 
+            {
+                "review_header": "Complete Failure at Seven Months", 
+                "review_text": "I purchased this drive on August 25, 2016. It failed on March 1, 2017. After exploring all solutions with Seagate, they confirmed that the drive was dead. The only option they offered was a $500+ file recovery. Until I asked, Seagate did not even mention honoring the product's warranty.", 
+                "review_comment_count": "", 
+                "review_posted_date": "03 Mar 2017", 
+                "review_rating": "1.0 ", 
+                "review_author": " Regina Hart"
+            }, 
+            {
+                "review_header": "Two out of four were bad", 
+                "review_text": "I ordered two of these drives awhile back, and liked them well enough so I ordered two more recently. They arrived today. I noticed something was wrong right away because they seemed very slow, so I benchmarked them and compared the results against the previous two drives I'd ordered. The previous two achieved write speeds around 50 Mbyte/s on two different benchmarking tools I used, give or take a few Mbyte/s. Not great, but not bad for the price and about what I would expect. The new drives? 3 Mbyte/s. Over 10x slower, so slow that they are unusable. Same drive, same model number; I literally clicked the \"order again\" link on Amazon's web site. Both of the new drives that arrived today benchmarked at that same, slow speed, on both tests. I even tried swapping the cables. I am returning them. I chose the replacement option, mainly because I hate waiting for refunds, so we'll see if the good/bad ratio goes up to four out of six. But honestly? I wouldn't buy these drives again after this experience. EDIT: I received two replacement drives that arrived very quickly and worked fine on arrival. However, both of those are now showing the same kind of bad behavior as the two I replaced: very slow read/write speeds, to the point that the drives are unusable. I dug a little deeper, and the SMART utility I have says both drives have overheated once. The thing is, I didn't do anything outrageous: I formatted them and copied a few hundred gigabytes worth of files to each. That seems like an ordinary thing to do with a 4Tbyte drive? It's about 70F in the room where they're located, and they are sitting out in the open. It seems to me these drives are prone to overheating, and they tend to fail after overheating once. ymmv, but I regret purchasing these.", 
+                "review_comment_count": "2", 
+                "review_posted_date": "04 Oct 2016", 
+                "review_rating": "1.0 ", 
+                "review_author": " Anthony Bucci"
+            }
+        ], 
+        "ratings": {
+            "2 star": "2%", 
+            "1 star": "10%", 
+            "4 star": "10%", 
+            "3 star": "3%", 
+            "5 star": "75%"
+        }, 
+        "price": "$51.99", 
+        "url": "http://www.amazon.com/dp/B00TKFEEAS", 
+        "name": "Seagate Expansion 1TB Portable External Hard Drive USB 3.0 (STEA1000400)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "PS4 external drive for the win", 
+                "review_text": "I'm using this with my PS4 as I have the Beta 4.50 firmware that supports external USB for game storage. Games download to the external USB drive by default when that feature is enabled. The blue LED was bright but I turned the drive to face the wall. I like the black model, it fits with the PS4 perfectly. I haven't done any dramatic speed tests but games load from the drive with no issues. It is SO liberating to be able to just plug in a drive and triple your available space (I have a 1TB PS4 and the drive was full).", 
+                "review_comment_count": "9", 
+                "review_posted_date": "01 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Eric Rose"
+            }, 
+            {
+                "review_header": "Xbox One Backup", 
+                "review_text": "Works prefectly on my Xbox One, the difference between this and the wd passport is that with the passport your paying an additional fee for the wd backup software. In other words, if you are considering a hd for your xbox one, this is the one!", 
+                "review_comment_count": "7", 
+                "review_posted_date": "29 Nov 2014", 
+                "review_rating": "5.0 ", 
+                "review_author": " Sam"
+            }, 
+            {
+                "review_header": "\"1.8 TB\" actual, but expected.", 
+                "review_text": "**XBOX ONE OWNERS** This is a nice, compact drive that is lightweight, and can safely be \"stacked\" on top of a console or PC with no threat of crushing or leaving indents after long periods of sitting. It can easily become inconspicuous, and even in view it is not much of an eye sore. As a matter of fact, it's black coloring goes just fine - sitting on top of my XBox One(top left - DO NOT PLACE THE DRIVE ON THE TOP RIGHT OF THE CONSOLE WHERE THE VENTILATION IS). XBox One owners who have reached their storage limits would appreciate this. It IS practically \"PLUG & PLAY\". Practically, because you must not plug the drive usb into the console until you have FIRST powered up your console. I plugged - then powered up the first attempt, and the XBox didn't even sense it. Power up the console(give it time to load your home screen), plug in the HD's usb(I plugged it in the \"rear\" of the console), go to \"Settings\", then \"Storage\". **NOTE: It slipped my memory, but either right after plug in, or immediately after choosing the WD drive for future memory(next step), it will ask if the drive's primary use is for \"photos and media\", whether you have current photos on the drive, and/or is it for your \"game saves and downloads\". Know that it is about to format the drive, so if you have photos saved prior to moving it to the XBox - keep this in mind...you could lose them.** I provided pictures, but you will notice your consoles built in memory option at first, and the WD Hard Drive option should be showing to it's right. You may immediately notice something seemingly off... \"1.8 TB???\" You haven't been ripped off. Think of that unprovided(to you) \".2 TB\" as the HDrive's functioning brain. The drive needs memory space of its own to be the think tank for services provided to you. A brainless drive is a dead drive. Just click or choose to switch your memory(and future downloads) to the WD drive. Somewhere either right before or right after, it will ask your preferences on what kind of content you want saved. After formatting, IT'S SET. It showed \"27.1%\" memory used(for me), leaving that 1.8 TB. My explanation will take much longer to read than setting this up yourself. It's quite easy. I have since successfully re-downloaded games that I had to delete to make room for others, and I have also successfully downloaded new ones. We even had a recent power outage flicker - no harm to the drive. So far, so good, and at one of the most reasonable prices on Amazon in it's class.", 
+                "review_comment_count": "2", 
+                "review_posted_date": "03 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Apparition"
+            }, 
+            {
+                "review_header": "The Good and The Bad", 
+                "review_text": "Purchased January 2016. Hard-drive began failing June 2016. While it worked, it worked well. When it began failing, though, any software running on my laptop linked with data on the hard-drive would freeze and lock up the computer for a while. Online software support from WD wasn't exactly easy to find and, once found, their proprietary diagnostic software failed to recognize their own product the first couple times. After a 15 hour scan of the device, it prompted me to repair certain bad sectors. Following that prompt though, I was then informed those bad sectors could not be repaired. In every support article you'll read about addressing issues with external hard-drives, it invariably says to always back up your data. Well, this product is the backup; that's precisely what a 2TB external hard-drive is for, and a life span of half a year doesn't inspire much confidence. I called the warranty support. For a ~$100 hold on a credit card, they will ship you a replacement product with instructions on then how to return your faulty drive. While they do provide a link to a discounted UPS label for return shipping, that cost is incurred by the customer. I'm pleased they'll replace the product but I'm not very impressed by my initial purchase lasting 6 months or the fact the customer incurs return shipping costs.", 
+                "review_comment_count": "3", 
+                "review_posted_date": "25 Jun 2016", 
+                "review_rating": "3.0 ", 
+                "review_author": " David Ward"
+            }, 
+            {
+                "review_header": "VERY ANNOYING!! Fortunately I bought a recovery plan", 
+                "review_text": "Bought this a year ago. It is dead. This is the second portable drive I've purchased from WD. What is the problem with this???? VERY ANNOYING!! Fortunately I bought a recovery plan. I would like to have a portable drive that doesn't die!!", 
+                "review_comment_count": "", 
+                "review_posted_date": "05 Jul 2016", 
+                "review_rating": "1.0 ", 
+                "review_author": " Booklad"
+            }, 
+            {
+                "review_header": "Stopped working after a few weeks", 
+                "review_text": "It was formatted for a Mac and worked fine for a little while, then stopped showing up anywhere when plugged in, even in disk utility. It seems to power on when plugged in (the little light on the side turns on), but I have tried plugging it into multiple computers (Macs and PCs) and it doesn't show up anywhere on any computer.", 
+                "review_comment_count": "3", 
+                "review_posted_date": "13 May 2016", 
+                "review_rating": "1.0 ", 
+                "review_author": " ES"
+            }
+        ], 
+        "ratings": {
+            "2 star": "2%", 
+            "1 star": "5%", 
+            "4 star": "11%", 
+            "3 star": "3%", 
+            "5 star": "79%"
+        }, 
+        "price": "$76.40", 
+        "url": "http://www.amazon.com/dp/B00D0L5BH8", 
+        "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Great Price/performance ratio make this a great buy. For me consistently faster than FireCuda.", 
+                "review_text": "I ended up purchasing this drive after I received a defective and then poor performing replacement Firecuda 2TB. I was prepared to be disappointed after replacing my Caviar Black. I have to say while it is about 20 Mbps slower than the Caviar it is still very fast and very quiet, especially compared to the noisy WD drive. The 4K perfomance is pretty dismal, but in real world use I just don't see much difference. I am a gamer and use my PC as a small office server. So it is very fast with a Samsung EVO 850 primary drive, OCed 3570K, GTX 1060, Crucial Ballistex memory etc. The Caviar is clearly the best mechanical drive out there but at twice the price per MB I'm not sure it is worth the price. I guess the proof will be in the durablity and the drive does get warm with long and large data transfers. ----------------------------------------------------------------------- CrystalDiskMark 5.1.2 x64 (C) 2007-2016 hiyohiyo Crystal Dew World : http://crystalmark.info/ ----------------------------------------------------------------------- * MB/s = 1,000,000 bytes/s [SATA/600 = 600,000,000 bytes/s] * KB = 1000 bytes, KiB = 1024 bytes Sequential Read (Q= 32,T= 1) : 148.946 MB/s Sequential Write (Q= 32,T= 1) : 111.386 MB/s Random Read 4KiB (Q= 32,T= 1) : 1.866 MB/s [ 455.6 IOPS] Random Write 4KiB (Q= 32,T= 1) : 1.163 MB/s [ 283.9 IOPS] Sequential Read (T= 1) : 147.841 MB/s Sequential Write (T= 1) : 126.389 MB/s Random Read 4KiB (Q= 1,T= 1) : 0.834 MB/s [ 203.6 IOPS] Random Write 4KiB (Q= 1,T= 1) : 1.283 MB/s [ 313.2 IOPS] Test : 100 MiB [E: 7.1% (45.0/634.7 GiB)] (x3) [Interval=5 sec] Date : 2016/11/14 14:22:50 OS : Windows 10 [10.0 Build 14393] (x64)", 
+                "review_comment_count": "", 
+                "review_posted_date": "14 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " fraamus"
+            }, 
+            {
+                "review_header": "Fine 2tb hard drive!", 
+                "review_text": "Very nice hard drive! I replaced a 1TB hd with this 2TB hard drive. Used Macrium Reflect to clone the drive and boom,I was done! There is no paperwork,no cables, no hardware in the box, just the drive. Since I was doing a straight swap, I didn't need it! I am happy with this new drive. No issues to report.", 
+                "review_comment_count": "", 
+                "review_posted_date": "21 Oct 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " P. HOFFERMAN"
+            }, 
+            {
+                "review_header": "An Amazing Hard Drive.", 
+                "review_text": "From the moment I plugged it in, this drive has been a dream, 10TB of storage is a lot and I don't plan on needing any more storage for the many years to come. It's also a really fast drive too considering the fact that this is a HDD and not an SSD. I've had no noise issues which I was slightly worried about since the mounting holes on this drive only let me screw in 2 screws into this drive using the mounting system in my rosewill blackhawk ultra case, but it is running very well. It's a pretty penny to pay, but from my experiences with this drive, it's entirely worth it if you have any need for this much storage. Heat has also simply not been an issue with me on this drive too in case anyone was wondering. I will update if anything changes. Update 3/28/2017: After using it for almost a solid month for gaming, I can confirm that the drive is still running amazingly :)", 
+                "review_comment_count": "", 
+                "review_posted_date": "02 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Thomas"
+            }, 
+            {
+                "review_header": "One out of two OK.", 
+                "review_text": "Doing a disc update on my computer and I bought two of these drives. First one was OK, installed and accepted a transfer of about 1.5 Tb from former drive (took HOURS). Second drive installed OK and appeared to work, but would not accept Fast Mirror backup of first drive via BACKUP4ALL. Every attempt failed from 2% to 85% completion. Seems like the drive was not staying in communication with the first drive. Took out the new drive and installed a spare to retry (a portion) of the transfer. Ran a Fast Mirror that ran for 2+ hours, no problem. Contacted Amazon and got an instant replacement ordered. Printed the RMA and sent off the old drive. New drive shipped on faith (after I signed that I would return the bad one, fair enough) and is due in two days. Possible problem: drives were combined with an order of newspaper cover sheets resulting in their being at the \"bottom\" (when held vertically) of a large box. This, plus the choice of shipper UPS, (FedEx is safer for drive shipment) may have caused the damage.", 
+                "review_comment_count": "2", 
+                "review_posted_date": "05 Feb 2017", 
+                "review_rating": "3.0 ", 
+                "review_author": " Jim"
+            }, 
+            {
+                "review_header": "I got a working hard drive!", 
+                "review_text": "I honestly felt like I was taking a gamble with this hard drive since there were some reported QC issues. Luckily, my hard drive appears to be working fine. No funky noises or vibrations. Hard drive runs cool and quiet as far as HDDs go (it's not an SSD). I'm mostly including this review as another data point so people know that some of the hard drives do actually work! Attached is a benchmark for added substance.", 
+                "review_comment_count": "", 
+                "review_posted_date": "16 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Earl Jay O. Caoile"
+            }, 
+            {
+                "review_header": "Huge drive for the price, fantastic deal!", 
+                "review_text": "So far so good. I needed a replacement for a dead 750GB hard drive and this fit the bill precisely. I'm starting to worry, however, that all my Seagate drives seem to be dying at least twice as quick as my Western Digital ones. However, the ones that are dying are from a few years ago so hopefully they've fixed the problems by now. I'm using this drive for normal storage. No gaming or anything of that nature. I will be doing some video work that might stream from it but overall just general storage use and so far it's been excellent in that capacity.", 
+                "review_comment_count": "", 
+                "review_posted_date": "24 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Jason Paradis"
+            }, 
+            {
+                "review_header": "I've Had Great Results with Seagate (Especially the BarraCuda)", 
+                "review_text": "I know many avid games like myself who really don't care for Seagate - that's totally fine! Myself personally, I have had a very pleasant experience with Seagate HDDs, particularly the BarraCuda line. I will not buy an HDD that doesn't have 7200prm - this has that. With how expansive my PC gaming library is, 2tb no longer cuts it. At the moment, my PC has 3 drives - 2 SSDs and 1 HDD, equally around 4900tb. For my HDD, this one takes the cake! I bought this as a replacement for my new gaming desktop - the company I had build the computer was wonderful and I have no complaints, but I have never had a good experience with Toshiba HDDs, so I immediately replaced it with this. It's going strong, and I have another one in storage for whenever this one needs to be replaced. Which, I don't think will be anytime soon. All in all, I'm very pleased with my purchase and will continue to buy this BarraCuda HDD.", 
+                "review_comment_count": "1", 
+                "review_posted_date": "05 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " GalaxieBlast"
+            }
+        ], 
+        "ratings": {
+            "2 star": "3%", 
+            "1 star": "11%", 
+            "4 star": "13%", 
+            "3 star": "6%", 
+            "5 star": "67%"
+        }, 
+        "price": "$66.99", 
+        "url": "http://www.amazon.com/dp/B01IEKG402", 
+        "name": "Seagate 2TB BarraCuda SATA 6Gb/s 64MB Cache 3.5-Inch Internal Hard Drive (ST2000DM006)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Working, but beware of bad sectors; always keep backups!", 
+                "review_text": "I received this drive 8 months ago and it is still working in an acceptable manner by my standards. For more details, please continue reading. Having recently re-browsed the Amazon reviews for this product, I saw some people complaining that their drive had failed after x months having ordered it around the same time as me. This prompted me to fully check my drive's health so that I could at least be reassured that it is in full working order for the time being. I ran a read test on Windows using HD Tune Pro since that's where my drive was plugged in at the time, and the results (shown in as screenshots attached to this review) show the drive did in fact contain some bad sectors. I ran a non-destructive write test using badblocks on Linux which, for each sector, will first read the sector and store it in memory, then write a random pattern, then read this pattern back and make sure it matches the pattern that was written, and finally restore the original contents of the sector. I had backups just in case, so I wasn't worried and was mainly doing this for science. At the end, SMART output showed 2310 bad sectors existed on the drive. Since I waited 8 months to run this test and used the drive sparingly, it's unclear whether the sectors were always bad or if they developed over time. It also just so happens that none of the data I had stored on the drive were on these bad sectors. Despite the clear indication of potential failure, all sectors were restored to full working order after being written over. This means the sectors were really just held a weak magnetic charge, and were not permanently bad from e.g. physical damage to the platter. As a result, the pending/offline uncorrectable sector counts were dropped to 0 and the reallocated sector count did not increase at all. If interested, I've included the entire SMART output below. MART Attributes Data Structure revision number: 10 Vendor Specific SMART Attributes with Thresholds: ID# ATTRIBUTE_NAME FLAG VALUE WORST THRESH TYPE UPDATED WHEN_FAILED RAW_VALUE 1 Raw_Read_Error_Rate 0x000f 117 100 006 Pre-fail Always - 154970934 3 Spin_Up_Time 0x0003 097 096 000 Pre-fail Always - 0 4 Start_Stop_Count 0x0032 100 100 020 Old_age Always - 568 5 Reallocated_Sector_Ct 0x0033 100 100 036 Pre-fail Always - 0 7 Seek_Error_Rate 0x000f 070 060 030 Pre-fail Always - 11738583 9 Power_On_Hours 0x0032 098 098 000 Old_age Always - 2497 (146 170 0) 10 Spin_Retry_Count 0x0013 100 100 097 Pre-fail Always - 0 12 Power_Cycle_Count 0x0032 100 100 020 Old_age Always - 52 184 End-to-End_Error 0x0032 100 100 099 Old_age Always - 0 187 Reported_Uncorrect 0x0032 001 001 000 Old_age Always - 587 188 Command_Timeout 0x0032 100 099 000 Old_age Always - 4295032834 189 High_Fly_Writes 0x003a 100 100 000 Old_age Always - 0 190 Airflow_Temperature_Cel 0x0022 054 041 045 Old_age Always - 46 (Min/Max 32/49 #8) 191 G-Sense_Error_Rate 0x0032 100 100 000 Old_age Always - 0 192 Power-Off_Retract_Count 0x0032 100 100 000 Old_age Always - 9 193 Load_Cycle_Count 0x0032 096 096 000 Old_age Always - 8819 194 Temperature_Celsius 0x0022 046 059 000 Old_age Always - 46 (0 18 0 0 0) 197 Current_Pending_Sector 0x0012 100 062 000 Old_age Always - 0 198 Offline_Uncorrectable 0x0010 100 062 000 Old_age Offline - 0 199 UDMA_CRC_Error_Count 0x003e 200 200 000 Old_age Always - 0 240 Head_Flying_Hours 0x0000 100 253 000 Old_age Offline - 147 (146 13 0) 241 Total_LBAs_Written 0x0000 100 253 000 Old_age Offline - 9955309601 242 Total_LBAs_Read 0x0000 100 253 000 Old_age Offline - 15389131969 You can see there is an error count, but no pending/uncorrectable or reallocated sectors. Although it's clear that the drive is currently working, the history of weak sectors means I will keep a close eye on it in case data ends up being written to the sectors that used to be weak, since if they become weak again, the drive will have trouble reading from them and I could start to lose data as a result. Remember: all drives fail, no matter what make or model you buy, so always keep backups and be prepared for the inevitable.", 
+                "review_comment_count": "3", 
+                "review_posted_date": "04 Dec 2016", 
+                "review_rating": "4.0 ", 
+                "review_author": " Milos Ivanovic"
+            }, 
+            {
+                "review_header": "Died during backup after less than 2 hours.", 
+                "review_text": "I was pleased to initially get this backup HDD, it is small, portable, clean design, with a nice black color. It was packed in an easy to open and protective box and the basic instructions were simple and clear, plug the HDD into your computer with the accompanying cord and download the Seagate Dashboard application to begin backing up. I did just that, and initially seemed to be up to a great start. The Dashboard app isn't fancy, but appeared to be sufficient to get the job done. However, fast forward about 2 hours to ~80% backed up, and the HDD starts to occasionally beep. I was not aware the drive had any speakers so inititally I figured I had heard something outside my house. Gradually over the next 10 minutes the beeping became more and more frequent until it was obvious they were coming from the drive and were coming out about every second. I also noticed at this point the drive was no longer backing up. Thinking something was amiss, I unplugged the drive, restarted the Dashboard, and reconnected the drive. No luck, the drive was now not being recognized by my computer, either through the file system, the Device Manager, the Drive Manager, or Seagate's Dashboard application. It still made the beeping sound. I repeated this process several times, tried different ports, a different computer, a different cable, nothing worked. Seagate tech support is totally unhelpful. I seemed to only get form emails from them. Most would not even respond to entire parts of my email, basically telling me to troubleshoot by trying different computer, restarting, etc. I found it really disheartening that a company's harddrive would fail only part of the way through it's first use. Thankfully Amazon has a fantastic return program! I would not buy from Seagate again.", 
+                "review_comment_count": "", 
+                "review_posted_date": "21 Jan 2017", 
+                "review_rating": "1.0 ", 
+                "review_author": " Amazon Addict"
+            }, 
+            {
+                "review_header": "Excellent Hard Drive - Great Price. Pull drives for use in Laptop/PS4.", 
+                "review_text": "Hard to go wrong here. If you are using this as an external drive, this product has 2TB in very small space and is USB powered. The drive itself only takes 0.7-2.3W to operate! On Mac OSX 10.9.2 running the included Paragon NTFS driver, I was able to see write rates in 8-10 MB/sec with USB 2.0. On a Windows 7 Machine I averaged 18 MB/Sec; 14 MB/sec running the latest 8.1 update. I pulled the drives from two of these units (instructions below - photos to be added soon) for use in my laptop. This product is the only way I know of to obtain the 9.5mm tall, 2.5-in 2T Samsung Spinpoint M9T drive(s). Note: the 2TB version has 1 drive, the 4TB has 2 drives. After installing them in my laptop (has 3 internal HDD bays with SATA connections, 1st bay has OS, apps, etc. on 500GB SSD), I tested data txfr speeds. I moved 1.5 TB of data from one drive to another with average speeds of 194 MB/Sec in Windows 8.1. Laptop now has 4.5 TB of hard drive capacity. Have also successfully installed one in a PS4! Next project will be to install one in a Macbook Pro. Great way to get a lot of internal storage space for little money (Purchased early April 2014 for $103.99 directly from Amazon with 2-day Prime shipping). Removal Instructions (WARNING -THIS WILL VOID YOUR WARRANTY - BUYER BEWARE): 1. Obtain small, flat-bladed screw driver and gently insert between the aluminum top and the plastic bottom. 2. Rotate screwdriver slightly to pry the top off. At this point slide the screwdriver around the perimeter and the top will come off. 3. Once the top is off, you will see the top of the internal drive. Carefully remove from the plastic lower without prying or subjecting the drive to significant shock. It is easiest to remove by lifting the side opposite the USB connector. 4. Once the drive is out of the plastic enclosure, you'll need to remove some aluminum tape and wax paper from the drive. Be careful when doing this to avoid ESD which may damage drive circuitry. 5. Once the tape and paper are removed, the USB to SATA board can be carefully removed from the drive. It is an interference fit without any fasteners. 6. You now have a bare 2TB, Samsung Spinpoint M9T drive that is only 9.5 mm tall! Great for laptops and the PS4. 7. Install in your new device per your device manufacturer's instructions. Enjoy!", 
+                "review_comment_count": "78", 
+                "review_posted_date": "10 Apr 2014", 
+                "review_rating": "5.0 ", 
+                "review_author": " Amazon Reviewer"
+            }
+        ], 
+        "ratings": {
+            "2 star": "3%", 
+            "1 star": "11%", 
+            "4 star": "12%", 
+            "3 star": "3%", 
+            "5 star": "71%"
+        }, 
+        "price": "$79.99", 
+        "url": "http://www.amazon.com/dp/B00FRHTTIA", 
+        "name": "Seagate Backup Plus Slim 2TB Portable External Hard Drive USB 3.0, Silver (STDR2000101)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Sequential Writes/Reads Faster Than 2015 Model, Excellent Drive, New Case Design Not An Improvement", 
+                "review_text": "This model is the latest generation of the many My Passport drives I've owned or purchased for clients. They have proven reliable and good performers. They have incrementally improved with each new generation. This model features a new case design which most notably replaced the rounded corners with sharp 90 degree ones. Otherwise it should have little effect on use. BOTTOM LINE (for the impatient): The new model is a little bit faster than last year's and includes the 4TB model added to the previous generation My Passport Ultra early in 2016. This model (I got the 4TB size) is just noticeably faster than the 2015 model on sequential reads and but especially writes using Crystal DiskMark. This My Passport has a new design that replaces rounded corners with pointy ones and adds some odd (to me) styling to the case. The new case shows fingerprints and scratches much more than the old. It's a purely aesthetic change. Other than outward appearance it's functionally almost identical to the 2016 My Passport Ultra model. If these differences are not important for you or you prefer the old model's aesthetics, you may want to get last year's My Passport Ultra or this depending on which is least expensive at the time. You'll have an excellent drive in either case. If you want more details, read on... SUMMARY: The My Passport USB 3.0 drives are simple to use and come with reasonable software tools and backup/sync software. The drive includes software: WD Backup, WD Security and WD Drive Utilities. I have my own backup solution and have not explored this software. If these are of interest, be sure to check for newer versions on the WD web site. Pluses: + This drive works fine with Windows, Linux or Mac out of the box. With Linux or Mac it performs best when reformatted with a native file system for the respective operating system. + This generation has 4TB, 3TB, 2TB, and 1TB models. The 500GB sizes in previous versions has been dropped. + This drive is faster than the last generation. Up to 10% faster in benchmarks, but just noticeable in practical use. + The form factor of the new drive is almost exactly the same as before except for pointy corners and about a 1mm increase in thickness. + The early drives came with 2yr warranties, but NOW come with 3 years. Yeah! Minuses: - It comes with the same very short USB 3.0 cable as previous versions. I like a longer 3ft (or more) USB 3.0 cable : a very good upgrade purchase for the My Passport drives. - The redesign of the drive case is not a plus for me. Not much of a minus either as it's not why I selected this drive. The worst thing is going with pointy corners. From a handling perspective rounded corners are nicer. IN THE BOX: The My Passport comes in a easy to open retail package containing the drive and a annoyingly short USB 3.0 cable. There are a couple small pieces of paper for warranty and quick-start. That's it. The cable in this model is the same as previous versions. This may be just fine for a lot of folks but I keep some 3ft (or more) USB 3.0 cables handy for longer runs to my desktop or even on top of a tall computer. FORM FACTOR vs. PREVIOUS GENERATION: I'll compare the new generation of My Passport with my 2015 My Passport Ultra This Model My Passport's dimensions: 1TB: 0.37lb, 4.33in X 0.64in X 3.21in 2TB-4TB: 0.54lb, 4.33in X 0.85in X 3.21in 2015 My Passport Ultra's dimensions: 500GB: 0.32lb, 4.33in X 0.62in X 3.21in 1TB: 0.34lb, 4.33in X 0.62in X 3.21in 2TB-4TB: 0.50lb, 4.33in X 0.83in X 3.21in TESTING: I tested both my older My Passport Ultra 2TB drive and the new My Passport 4TB model using CrystalDiskMark benchmark software and by copying 11GB folder of updates and files to the drive. This was to compare the benchmark with real-world copying. The 11GB folder has a broad mix of file sizes and types including files an over 2GB iso DVD images. Using CrystalDiskMark I found sequential reads were about 10% faster and writes about 40% (!) faster with the new model. Random reads were just a tiny bit slower and writes were about 4% faster. While the benchmarks showed significant differences using them in my real-world copy test the difference was noticeable but not great. If you need to write large files this drive is noticeably better than the 2015 model. For my testing the My Passport drive was connected to the Renasas USB 3.0 chip set on my Dell Precision E6500 laptop. I have the latest Renasas drivers installed. The laptop also has a Samsung EVO SSD as the hard drive (matters for my real-world copy testing). CRYSTALDISKMARK Results: The New Generation My Passport: Sequential Read: 125. 5 MB/s Sequential Write: 113.7 MB/s Random Read: 4KiB 0.573 MB/s Random Write: 4KiB 1.290 MB/s Sequential Read: 119.1 MB/s Sequential Write: 113.7 MB/s Random Read: 4KiB 0.505 MB/s [ 127.4 IOPS] Random Write: 4KiB 1.305 MB/s [ 327.1 IOPS] The 2015 My Passport Ultra: Sequential Read: 112.8 MB/s Sequential Write: 72.4 MB/s Random Read: 4KiB 0.584 MB/s [ 142.6 IOPS] Random Write: 4KiB 1.373 MB/s [ 335.2 IOPS] Sequential Read: 110.7 MB/s Sequential Write: 70.7 MB/s Random Read: 4KiB 0.522 MB/s [ 127.4 IOPS] Random Write: 4KiB 1.340 MB/s [ 327.1 IOPS] REAL WORLD COPY: In my real world copy test the new My Passport drive was just noticeably faster than the older My Passport Ultra. More on the writing than reading side. It peaked out at about 68MB/s with large files. I never dropped below 31MB/s even with large amounts of small files being copied to the drive. The 2015 My Passport Ultra peaked out at about 60MB/s and dropped several times to 29MB/s. I'm thinking the newer drive may have a larger on-drive write cache or maybe it's just a bit faster drive. Maybe both. On big copies the new My Passport may save you a few seconds here or there but your last generation My Passport Ultra drives are still pretty close in real-world performance. CONCLUSIONS: The My Passport line of drives from Western Digital has been very good to me and to my clients. This reliable and good to excellent performing line has a long positive history with me. This WD My Passport model is an evolution over the 2015 My Passport Ultra. I'll pick it for new purchases over the older model, but won't rush out to replace older drives. I like the 2015 My Passport Ultra's rounded corner case better but it's very minor point for me. Overall it's a excellent successor to a 5 star predecessor and continues to be a very good external storage choice. For making improvements that outweigh a small misstep in case design and not making a mess of something that has been working well for a long time This new generation of My Passport drives is worth 5 stars in my opinion. Hope this helps someone!", 
+                "review_comment_count": "35", 
+                "review_posted_date": "14 Oct 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Stephanie Sullivan"
+            }, 
+            {
+                "review_header": "Good drive, pretty similar to previous version, differences are mostly aesthetic", 
+                "review_text": "WD just released the latest version of their Passport Portable External Hard Drives in 1TB, 2TB, 3TB, and 4TB. For the 3TB The old version was Model #WDBBKD0030BBK-NESN and this new version is Model # WDBYFT0030BBK-WESN. I researched if there are any differences, so here is what I came up with... Pros \u2022 High Capacity Available - Up to 4TB (The older model when released had up to 3TB capacity, up until a 6/28/16 release of a short lived 4TB model) \u2022 Testing suggests slightly faster data transfer rate \u2022 Now available in 6 colors. Same as Old Model Nothing Changed \u2022 Automatic local and cloud backup \u2022 Optional 256-bit AES hardware encryption \u2022 Comes in same 4 colors, they still offer black, blue, red and white (+ yellow and orange) \u2022 USB 3.0 connectivity \u2022 Formatted for Windows, reformatting required for Mac \u2022 Same operating temperature \u2022 USB 3.0 up to 5 Gb/s (max) / USB 2.0 compatible up to 480 Mb/s (max) \u2022 Operating temperature: 5\u00b0C to 35\u00b0C / Non-op. temperature: \u201320\u00b0C to 65\u00b0C Cons \u2022 Introduction of odd shape to part of the new casing \u2022 Round corners are now replaced with sharp/pointy edges \u2022 Fingerprints and scratching more visible on new model \u2022 Some colors may be too bright for some, and previous version berry, became brighter red (note this con is highly subjective) \u2022 Overall size of new model is not smaller. (Actually a tiny bit bigger, about 1.5 mm bigger) \u2022 1TB weight went a bit up from 0.34 lbs to 0.37 lbs, 2TB ,3TB & 4 TB weight went a bit up too from 0.50 lbs to 0.54 lbs \u2022 Warranty dropped down from 3 Years to 2 Years Package Includes \u2022 My Passport hard drive \u2022 USB 3.0 cable \u2022 WD Backup\u2122, WD Security\u2122 and WD Drive Utilities\u2122 software \u2022 Quick install guide Bottom Line - They are pretty similar, differences are mostly aesthetic, so get what is cheaper. (Unless you like one casing/shape over the other, or care enough about the loss of 1 additional year of warranty on the new 2016 model).", 
+                "review_comment_count": "5", 
+                "review_posted_date": "05 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Harry Spalding"
+            }, 
+            {
+                "review_header": "Works perfectly with Xbox One!", 
+                "review_text": "Plugged this into my Xbox One (not the One S) and it automatically asked if I wanted to use it for apps and storage. Once I said \"yes\", the Xbox handled it perfectly. This is a great solution for expanding Xbox One storage!!!", 
+                "review_comment_count": "5", 
+                "review_posted_date": "20 Oct 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Doug"
+            }, 
+            {
+                "review_header": "Works great with the PS4", 
+                "review_text": "The only reason I bought the 4TB WD was for my PS4. I just followed the on screen directions and the PS4 formatted for me. Now I room for future games.", 
+                "review_comment_count": "", 
+                "review_posted_date": "09 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Soldiers11M"
+            }, 
+            {
+                "review_header": "Had to download driver for WD 4TB, as Windows ...", 
+                "review_text": "Had to download driver for WD 4TB, as Windows 10 does not see WD 4TB (looked through Google to find out, as the downloaded manual did not advise or provide any help). It should have been made for the WD 4TB to be automatically found, as it made me think initially that the shipped product was defective.", 
+                "review_comment_count": "", 
+                "review_posted_date": "01 Dec 2016", 
+                "review_rating": "4.0 ", 
+                "review_author": " Kongsak Tanphaichitr, M.D."
+            }, 
+            {
+                "review_header": "Great EHD", 
+                "review_text": "Using this as an external drive for my Xbox One. This will be the 3rd hard drive had purchased for my Xbox, not because of bad drives, but because of Xbox games being so large. The drive seems to be faster than the other two I had for the system. Very solid case, I love how it matches teh Xbox one two tone design as well.", 
+                "review_comment_count": "1", 
+                "review_posted_date": "07 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Noah Stines"
+            }, 
+            {
+                "review_header": "Plenty of space for to add to my older model PS4.", 
+                "review_text": "So far so good. Plenty of space for me to save all of my games on and many more. Also it is small enough to set on top of the system.", 
+                "review_comment_count": "3", 
+                "review_posted_date": "13 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " The Techman"
+            }
+        ], 
+        "ratings": {
+            "2 star": "2%", 
+            "1 star": "8%", 
+            "4 star": "13%", 
+            "3 star": "3%", 
+            "5 star": "74%"
+        }, 
+        "price": "$114.99", 
+        "url": "http://www.amazon.com/dp/B01LQQH86A", 
+        "name": "WD 4TB Black  USB 3.0 My Passport  Portable External Hard Drive (WDBYFT0040BBK-WESN)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Pleasantly surprised", 
+                "review_text": "First off, i was wary of the number of review stars on this drive since A) it's a seagate which seems to get a bad rap as of late, and B) most of the 5-star reviews are vine voice reviews of free products. Over the last year or so i've come to the conclusion that these elite reviewers would rather keep their free stuff coming than provide honest reviews... but who am I to judge... i'd probably do the same. Rant aside, this drive is fast as hell. I was surprised how quickly it comes out of sleep mode (~ 2 seconds vs the 10-15 it takes my old(er) WD 3.0TB drive). I ran a long SMART check that came back clean and i've copied about a TB of stuff over to it. Zero complaints so far... but as others have said, we'll see how it fares in the long-term. If I needed another 5TB right now, I wouldn't hesitate on buying another one of these. Amazon packing was a little sketchy... the air bags stopped the HD from moving horizontally in the box, but not vertically. Other than that, i'm happy with this purchase. (Update 06/29/2016) Drive is used daily and still comes back clean with long SMART tests. Still very satisfied with this drive.", 
+                "review_comment_count": "45", 
+                "review_posted_date": "17 Apr 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " jerem"
+            }, 
+            {
+                "review_header": "YES THIS DOES WORK ON THE PS4 for GAMES (Install PS update 4.50)", 
+                "review_text": "I bought this hard drive in February when I read that a soon to be released update for the PS4/PS4 PRO would support external hard drives to install games and applications. Then i waited... well that day is today. PS4 received update, I installed this drive, had PS4 format drive (simply follow the prompts) and there you go. You then have a much needed expansion for your games for the PS4. Yes I had already switched to larger internal hard drive quite some time ago. I installed several games to this hard drive today and there was NO issues. No lag, no slowdown, even when in game movies played... ran great. ***** IMPORTANT INFO ***** You HAVE to have the PS 4.50 update in order to use this drive. If you do not have the 4.50 update installed on your PS4 then this drive nor any other drive will work to install GAMES. You can still use an external hard drive for photos and music before the 4.50 update. Again you HAVE to have the PS 4.50 update to install games to this drive. * EDIT * One more thing I just found out. If you put your PS4 into rest mode and you leave your USB ports on (for charging headsets or controllers) this hard drive will NOT go into sleep mode. The blue light on the drive will remain on and heads will continue to spin. This will lead to early end of life. If you just unplug the USB from the PS4 the drive will turn off even while power is plugged in. If you don't place your PS4 in rest mode nor leave the ports powered while in rest mode then this is not an issue.", 
+                "review_comment_count": "2", 
+                "review_posted_date": "09 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " DBClutch"
+            }, 
+            {
+                "review_header": "Work's on the PlayStation 4 or PlayStation 4 Pro", 
+                "review_text": "I have recently just bought a PlayStation Pro with a 1 TB hard drive and with more games coming out soon I know that I won't enough space on my PlayStation 4 Pro so I purchased this 3 TB external hard drive to bump up my PlayStation 4 Pro and with the new update that the PlayStation released out this week I can use an external hard drive and it works perfectly fine plug it in format it and you're set to go", 
+                "review_comment_count": "", 
+                "review_posted_date": "12 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "Great Buy for expanding your Xbox One Storage to the MAX !!!!!!!", 
+                "review_text": "An amazing piece of equipment. I was able to hook this up to my Xbox One without any problems and now have more than enough space to store everything I want! The housing is very sturdy and is practically silent. It installed CoD Advanced Warfare faster than the internal drive of the Xbox One installs games. And it only takes up one percent of space on the Seagate drive ONE PERCENT and this is a 49 GB game we are talking about. That still leaves me with 4.5 TB worth of free space. I can't say enough good things in such a small space for comments, but I would recommend this drive to anyone that has to deal with huge amounts of data and not go broke in the process. Buy this drive while it's still available!", 
+                "review_comment_count": "12", 
+                "review_posted_date": "24 Apr 2015", 
+                "review_rating": "5.0 ", 
+                "review_author": " Joseph Harris"
+            }, 
+            {
+                "review_header": "Seagate, just terrible as always.", 
+                "review_text": "Against my better judgement, I bought this because it was seemingly a good sale price. Well, as always, Seagate sucks big time. This thing worked for a few hours a time, then started cranking and non-stop hard drive activity. Read/write speeds were hilariously low (around 1MB/s, yes you read that right, and that was through USB3) even for Seagate standards. Returning it as we speak and will pay a little more for a WD drive. I will never use Seagate again.", 
+                "review_comment_count": "", 
+                "review_posted_date": "22 Dec 2016", 
+                "review_rating": "1.0 ", 
+                "review_author": " Josh S."
+            }, 
+            {
+                "review_header": "Seagate Expansion 5TB Desktop External Hard Drive USB 3.0 stopped working after 3 weeks, data unrecoverable", 
+                "review_text": "Stopped working after three weeks and had it sent in for data recovery at a lab. They said that all the information on the drive was lost because one of the write heads broke off and scratched the plate of the hard drive. I lost hundreds of GB of home videos and can't return the product because while it was sent out for data recovery the 30 day return window ended. I lost a lot of money trying to recover these memories and highly recomend looking at alternative drives.", 
+                "review_comment_count": "2", 
+                "review_posted_date": "14 Jul 2016", 
+                "review_rating": "1.0 ", 
+                "review_author": " Alexander."
+            }, 
+            {
+                "review_header": "Buy the newer design \"Seagate 5TB Backup Plus\" instead with much better ventilation and heat dissipation", 
+                "review_text": "Buy the newer design \"Seagate 5TB Backup Plus\" instead. This \"Expansion 5TB Desktop External\" drive failed for me in less than a year. Seagate was very gracious when confirming the failure and granting a full warranty replacement. It is interesting that the replacement item was not the original \"Expansion 5 TB\" but the newer design \"5TB Backup Plus\". The newer \"5TB Backup Plus\" has a much larger surface area of ventilation holes [on 3 edges and 1 side [versus just 2 edges on the older item] and they added feet to elevate the ventilated underside of the unit. The only reason I can deduce is that they have had an inordinate number of warranty returns of this item due to heat related failures. I like how these drives work but would pay the extra 10$ for the \"Seagate 5TB Backup Plus\" instead of the \"Expansion 5 TB\".", 
+                "review_comment_count": "9", 
+                "review_posted_date": "08 Apr 2016", 
+                "review_rating": "3.0 ", 
+                "review_author": " Don Roos"
+            }, 
+            {
+                "review_header": "Works perfect on the PS4 and PS4 Pro!", 
+                "review_text": "Works perfect on the PS4 and PS4 Pro! with the 4.50 firmware update you can finally use external hdd (3.0) just plug it, reformat and your good to go!", 
+                "review_comment_count": "", 
+                "review_posted_date": "15 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " DieGuillo"
+            }
+        ], 
+        "ratings": {
+            "2 star": "3%", 
+            "1 star": "11%", 
+            "4 star": "12%", 
+            "3 star": "4%", 
+            "5 star": "70%"
+        }, 
+        "price": "$119.99", 
+        "url": "http://www.amazon.com/dp/B00TKFEEBW", 
+        "name": "Seagate Expansion 5TB Desktop External Hard Drive USB 3.0 (STEB5000100)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "OEM, New Old Stock, great value.", 
+                "review_text": "The drive I received is a WD Western Digital Blue 320GB / WD3200KS / 16MB buffer / Manufactured in Jan 30 2010. The description spec'd this as having a 8MB buffer so the 16MB buffer was a pleasant surprise. I confirmed this is a true OEM drive on the WD website. WD does not warranty OEM products so the warranty comes from the re-seller. The drive arrived sealed in the factory anti-static bag inside a standard OEM carrier. The packing was professional grade, the carrier consists of a cardboard box with two plastic inserts to protect and cushion the drive. See picture. My drive passed the Western Digital short and long tests with no errors. It also executed a zero write with no errors. The drive has no bad sectors. It is in perfect working condition. I suggest you take the time to long scan your drive and zero write it when you receive it to insure it works properly. The Data Lifeguard software to do this is free on the WD website. Scans like this will take a little time but this is the only way to know your drive is reliable. This model is several years old so it's read an write speeds are not impressive by today's standards. The sequential R/W topped out at about 60MB/s while random R/W was about 2MB/s. This drive will seem sluggish next to today's models and like a turtle next to a modern SSD. Even today there is a place for drives of this speed. The drive is well suited for long term file storage, repairing an older machine, use in an external USB case, or for use in a DVR. Personally I use this type of drive to store backup images and it works great for this purpose. So to sum it up... This drive is an OEM New Old Stock item. It came professionally packaged and passed all the tests when it arrived. It's definitely not fast but it a good value if you know what you are buying. I would buy it again and I would recommend it to a friend.", 
+                "review_comment_count": "", 
+                "review_posted_date": "30 Sep 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " My Penname"
+            }, 
+            {
+                "review_header": "perform better, install with little effort", 
+                "review_text": "I have used Western Digital drives for many years, and prefer them highly over the other large drive manufacturers. I have had over the years, with all sized of WD drives, from the smallest 1G to the large 4TB, virtually no problems. They perform well, always, and are dependable. Now it is the truth that many people believe that in time all hard drives will eventually fail, but mean time between failure for most all WD drives is very long, as I have found (and I have used and sold many of these drives over 20 years) the WD drives to last longer, perform better, install with little effort, can immediately be initialized using Windows Drive Management, then formatted or partitioned and formatted as desired. The price is good on this drive and I recommend it to anyone.", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " John in SoCal"
+            }, 
+            {
+                "review_header": "Used this to expand on my desktop that has 500gb ...", 
+                "review_text": "Used this to expand on my desktop that has 500gb. Make sure you buy the power adaptor when getting this HD. This purchase only comes with the HD itself. The computer will have the wire to hook up for data transfer but might not have the power wire. Make sure you check before purchasing with out it. Overall it does what is expected. Fast files transfer.", 
+                "review_comment_count": "", 
+                "review_posted_date": "03 Jan 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Nevin Pahlad"
+            }, 
+            {
+                "review_header": "Excellent so far, and I fully expect it to be very dependable.", 
+                "review_text": "I have an SSD boot drive and picked up one of these for some extra storage. It's quieter than I expected (almost silent except for a barely audible whirring noise), especially mounted in the basement of a an NZXT s340 case, even though there are no shock/vibration mounts and it's screwed straight into the metal hard drive cage. I haven't heard any hard drive noise even over the sound of my low-speed case fans.I have always had very positive experiences with WD hard drives in the past, and I expect this one to be no different. They're my go-to brand for magnetic storage, and I'm happy with this purchase.", 
+                "review_comment_count": "", 
+                "review_posted_date": "31 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Mike S."
+            }, 
+            {
+                "review_header": "Works in older Dell Optiplex Gx280", 
+                "review_text": "I installed this in an older Dell Optiplex GX280. I did a clean install of Windows 7, 32 bit and all is good again with my older Dell. This update was done to build a dedicated machine to digitize family photos and to distribute to out of state family members. I wanted a large enough hard drive for all of my photos and videos I hope to preserve. I also had some RAM in my scrap box and added it to the pc to up 1 GB to 3 GB. Though the pc is online, the main purpose is to be a dedicated pc for the above purpose.", 
+                "review_comment_count": "", 
+                "review_posted_date": "10 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " spockmcko"
+            }, 
+            {
+                "review_header": "Great hard drive", 
+                "review_text": "Great hard drive, put in an OLD XP system for a client that didn't want to upgrade windows or anything plus did not have tons of money and wanted everything AS IS non of the new formatted drives systems that may interfere with XP system (not my personal opinion, but read many things online) so I went with this and cloned their drive with no issues at all.", 
+                "review_comment_count": "", 
+                "review_posted_date": "28 May 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " shawn potter"
+            }, 
+            {
+                "review_header": "Western Digital Caviar Blue 320GB drives are perfect", 
+                "review_text": "Western Digital Caviar Blue 320GB drives are perfect. I bought this drive to have a place for my PClinuxOS KDE system. These drives are perfect for a quick installation of a new Linux operating system that comes stock with everything you need. I especially liked the low prices that this drive was offered at. Thanks for a low priced and great product guys.", 
+                "review_comment_count": "", 
+                "review_posted_date": "02 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Dave"
+            }, 
+            {
+                "review_header": "Western Digital (WD) Caviar Blue 320 GB (320gb)... Sold By: Western Digital", 
+                "review_text": "Western Digital (WD) Caviar Blue 320 GB (320gb)... Sold By: Western Digital I bought two of these for my archiving and back ups. They arrive in anti static bags and have to be initialized to see them on the computer. It is easier on an XP machine than on WIn freaking 8, but I did get it done. the drives are quiet, fast and responsive. I have NO NEGATIVES for this review, thus the 5 STARS. I think this is a good general drive. If you have a specific purpose, read up on the drives uses, marked by the color name, this drive is a BLUE, I believe there or 4 colors to the series. I purchased them because the price was very reasonable. I would recommend this drive. I DID NOT receive compensation for my my unbiased review.", 
+                "review_comment_count": "2", 
+                "review_posted_date": "30 Jan 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Runion"
+            }
+        ], 
+        "ratings": {
+            "2 star": "3%", 
+            "1 star": "9%", 
+            "4 star": "14%", 
+            "3 star": "3%", 
+            "5 star": "71%"
+        }, 
+        "price": "$22.99", 
+        "url": "http://www.amazon.com/dp/B00VAT701W", 
+        "name": "Western Digital (WD) Caviar Blue 320 GB (320gb) SATA II 7200 RPM 8 MB Cache Bulk/OEM Desktop Hard Drive for PC, Mac, CCTV DVR, NAS, RAID- 1 Year Warranty"
+    }
+]

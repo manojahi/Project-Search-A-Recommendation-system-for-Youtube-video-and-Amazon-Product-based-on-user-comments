@@ -1,0 +1,103 @@
+body 
+{
+    font-family: 'Open Sans';
+    overflow-x: hidden; 
+    background-color: #e2e2e2;
+}
+
+.main {
+  position: absolute;
+   top: 60%;
+   margin-top: -200px;/* half of #content height*/
+   left: 0;
+   width: 100%;
+}
+
+#youtube-video{
+	padding: 20px;
+	background-color: #cd201f;
+	color: #fff;
+	border-radius: 7px;
+	font-size: 20px;
+	cursor: pointer; cursor: hand;
+}
+
+#amazon-product{
+	padding: 20px;
+	background-color: #ff9900;
+	color: #fff;
+	border-radius: 7px;
+	font-size: 20px;
+	cursor: pointer; cursor: hand;
+}
+
+#facebook-movie{
+	padding: 20px;
+	background-color: #3b5998;
+	color: #fff;
+	border-radius: 7px;
+	font-size: 20px;
+	cursor: pointer; cursor: hand;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 40px;
+}
+
+#youtube-search {
+    width: 60%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('../images/search.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+#amazon-search {
+    width: 60%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('../images/search.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+#facebook-search {
+    width: 60%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('../images/search.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+hr {
+    display: block;
+    height: 2px;
+    width: 80%;
+    border: 0;
+    border-top: 1px solid #aaa;
+    margin: 1em 0;
+    padding: 0; 
+}

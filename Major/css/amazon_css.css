@@ -1,0 +1,51 @@
+body {
+  font-family: 'Open Sans';
+  overflow-x: hidden; 
+  background-color: #e2e2e2;
+  padding: 0px;
+  overflow-y: hidden;
+}
+
+.tabs-left {
+}
+
+.nav-tabs {
+  float: left;
+}
+
+#tabs{
+  width:200px;
+}
+
+.nav-tabs li {
+  float: none;
+  margin: 0;
+  padding: 2px;
+  font-size:17px;
+}
+.nav-tabs li a {
+  margin-right: 0;
+  background-color: #ff9900;
+  text-decoration: none;
+  color: #333;
+  height:60px;
+  width:200px;
+  display: table-cell; vertical-align: middle;
+}
+.nav-tabs li a:hover {
+  background-color: #ff9900;
+  color: #fff;
+}
+
+.tab-content {
+  margin-left: 0px;
+}
+.tab-content .tab-pane {
+  display: none;
+  background-color: #fff;
+  padding: 1.6rem;
+  overflow-y: auto;
+}
+.tab-content .active {
+  display: block;
+}

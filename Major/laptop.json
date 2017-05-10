@@ -1,0 +1,684 @@
+[
+    {
+        "reviews": [
+            {
+                "review_header": "For sure a sleeper of a laptop!", 
+                "review_text": "Great little laptop - it is not a beast, but it does everything I need quite well: website updates, emails, word docs, graphics manipulation, etc. I did try some video editing and while it would be okay for a last minute cut or effect on the road, it is a load on the little guy. Here are some thing you must do if you get one: 1. Go to Microsoft \"Fresh Start\" - this is a service the MS offers that will reload your new laptop with a fresh install of just Windows 10, it transfers all the activation stuff, but all of the HP crapware is gone. Make sure you do this before updating Windows, as you need 8-10 Gigs of space to run Fresh Start. 2. Go thorough and clean out the junk that MS has installed... your idea of junk is not the same as mine, but I am sure we both agree there is still junk. 3. If you are willing to open the laptop up and buy the parts, do the RAM and SSD upgrade - lots of videos on youtube show you how. 4. If you do not want to install a new SSD, get a Samsung USB 3.0 miniature drive... you can get 64G pretty cheap. Plug it in the USB port and make sure it is assigned a drive letter in Windows. 5. If you installed a SSD or USB drive, move the Desktop, Documents, Downloads, Music, Pictures, Video directories (folders) from your default home to the new SSD or USB - do not copy them, move them to the new drive, do not change the name or copy over any hidden directories - now create a symbolic link for each of these directories from where they were, to where they are - use 'MKLINK' (google for info). This step lets your computer auromagically use the additional storage your added as your home folders... everything you save to \"Pictures\" goes to the added SSD or USB drive. Also super handy for updates or OS reinstalls! 6. I moved the Windows Page File to the SSD, you can or not... 7. Keep it clean! I have a lot of stuff on my laptop and still have almost 13 gigs of free space on the eMMC - but you need to clean things up... do not waste money on a cleaning program - the free version of CCleaner does all you need, and you can do it with native Windows functions. ENJOY!", 
+                "review_comment_count": "2", 
+                "review_posted_date": "20 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " MCLMM"
+            }, 
+            {
+                "review_header": "Full HD Screen with LAN/HDMI/VGA and very portable on the cheap. Great for RDP.", 
+                "review_text": "EDIT: Just doubled the RAM to 8GB using this: https://www.amazon.com/gp/product/B00CQ35GYE/ref=oh_aui_search_detailpage?ie=UTF8&psc=1 All of the screws are visible from the bottom except for the under the two rubber feet on the hinges. Just received mine today, so first impressions: Build and finish are fine for the price. 1080p full HD screen. If this is not the reason you are buying it, there may be better options. The screen is GLOSSY and has lots of reflection and glare. Plenty sharp, pretty good viewing angles, but brightness is a little low IMO. This is no where near ultrabook size/weight, but it is a fairly light laptop that will travel well. Connectivity! LAN port with lights! VGA! Full size HDMI! USB 3.0 (1), Full size SD reader. Again, if you don't care about the LAN and full size HDMI/VGA, there may be better options. Keyboard and Trackpad are more than acceptable, maybe even above average IMO. Caps Lock light, Mute light, full size shift keys, dedicated page up/down, Function keys by default (rather than F keys). There is a fan, and it has been going most of the time I've been using it - not loud or high pitched though. No noticeable heat yet. Replaceable battery! Its small too, so backups on a trip would be easy to bring. Not sure about battery life yet, but I've been using it unplugged for almost an hour and am at 88%. Speed? Not so much. Will need more time, but I'm certain this is akin to all things \"netbook 2.0\", though 4gb of RAM is better than some. General web browsing has been fine, but weather.com has become a good test for lesser processors, and it certainly brings this one to a crawl. Storage has about 13GB available after the first round of updates out of the box. For me, this is a great buy to use for Remote Desktop. The full HD screen combined with the LAN, VGA, HDMI ports makes this a cheap travel/business computer if you use it for mostly RDP. The replaceable battery is another bonus after years of using ultrabooks. But if you are buying this as your main machine, you may be disappointed in performance.", 
+                "review_comment_count": "13", 
+                "review_posted_date": "07 Jul 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Douglas Quaid"
+            }, 
+            {
+                "review_header": "Appears to be upgradable.", 
+                "review_text": "Haven't used it yet. First thing I did was check to see if ram is expandable and hdd upgradable. Looks like yes to both as neither are soldered to board. I'm not sure where you get that kind of hdd though. It has an extra slot for a 2nd sick of ram too. Looks like you could add an optical drive if you are willing to modify the case by cutting into the plastic. *edit below* I have added a labeled picture of the board and also a picture of the SATA connection I could not find a suitable replacement hard drive for this, if you know where I should look let me know, thanks!", 
+                "review_comment_count": "19", 
+                "review_posted_date": "08 Jul 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Stanburry Q. Smile"
+            }
+        ], 
+        "ratings": {
+            "2 star": "6%", 
+            "1 star": "12%", 
+            "4 star": "20%", 
+            "3 star": "9%", 
+            "5 star": "53%"
+        }, 
+        "price": "$219.99", 
+        "url": "http://www.amazon.com/dp/B01F4ZG68A", 
+        "name": "HP 14-inch Laptop, AMD E2-7110, 4GB RAM, 32GB eMMC, Windows 10 (14-an013nr, Silver)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Battery Life and Rugged", 
+                "review_text": "I've been a chromebook fan for years. Because we travel a lot I wanted a more ruggedized model. I'm more than happy with this device. And the battery has been lasting for a full 10 hours. Very impressive.", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Jul 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " T. Hoch"
+            }, 
+            {
+                "review_header": "A No-Brainer Purchase", 
+                "review_text": "I had an ASUS Chromebook for two years prior to this purchase, and it was worth every dollar. As a college student in a nursing program, 90% of my time studying and in class is spent typing notes or reading electronic textbooks. This Chromebook is excellent for my educational needs and beyond. The battery power lasts as expected and, just as my previous Chromebook, the charging time is incredibly quick to reach full battery. The Chromebook really feels heavy-duty, while looking stylish. I have already received numerous compliments on the appearance of my device. It is a perfect size, fitting into bags without any issues, and is not too heavy to carry around. The keyboard is very comfortable to type on, and the screen is just fine for the price. The other features, such as the spill-proof keys, add to the appeal of the product. Additionally, each Chromebook purchase I've made has included 100 GB of Google Drive storage for two years. Overall, I really couldn't be happier. As long as Chromebooks exist and continue to be designed so well, I will be a loyal Chromebook customer. I can't imagine putting my money toward anything else.", 
+                "review_comment_count": "6", 
+                "review_posted_date": "01 Aug 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Angie"
+            }, 
+            {
+                "review_header": "A worry-free Chromebook", 
+                "review_text": "This Chromebook hardly needs another review but I've just been so happy with it lately I thought I'd throw my two cents in here. *For a Chromebook* this device is fantastic. Of course it's limited in many, many ways, but that's the whole point of buying a Chromebook. I've been using this device for a little over half a semester in college for in class note taking, group work, etc. I use my desktop for any heavy duty stuff. It's worth noting that I rollerblade to classes, so I was looking for something as light as possible and as durable as possible. Pros: Very sturdy - I've dropped it many times and the worst that has happened is the rubber edging will have to be popped back into place. Simple as that and it feels totally firm and solid once it's back in place. It's great to not have to treat your laptop like the slightest bump could damage it. Fantastic keyboard - The keyboard has a nice \"chunk\" with each keystroke. The keys have enough travel and require enough force to avoid accidental keystrokes and typing feels great, even satisfying. Great battery life - I never bring my charger with me anymore, no matter how long I expect to be out. Good sunlight readability - The screen does a pretty fine job of reducing strong glare. Cons: Weight - Though it's not particularly heavy for a Chromebook, its weight is a significant addition to my backpack. At just over two pounds, however, it's not a huge compromise in return for how durable this machine is. Sometime slow - As you'd expect. But honestly Chrome does a good enough job of managing resources that I only notice severe lag when opening presentations with many elements in them. All in all, this Chromebook has exceeded my expectations!", 
+                "review_comment_count": "", 
+                "review_posted_date": "29 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Luke Hearon"
+            }, 
+            {
+                "review_header": "A Great Portable Computer for the Price", 
+                "review_text": "Well, I suppose I'm not super computer savvy but I spend a lot of time on computers and I know what I like. My wife and I own a Dell desk top computer which we share between the two of us. I'll be going back to school in the spring and we thought it might be nice to have an extra computer around the house so we could both work on projects, or watch videos, or whatever at the same time. Unfortunately, we don't have a lot of money to spend so I really did my research before purchasing. I spent less than $200 for this little Chromebook and I think I really got my money's worth. With the exception of the storage capacity (which can be easily upgraded with an SD Card), it seems to be on a par with MacBook Air but for less than a third the cost. It's fast, easy to use, light weight, and durable. The last two qualities are especially important to me because I'm a cyclist and a strap hanger. If you travel primarily by automobile, you can't fully grok how important it is for someone who travels primarily by bicycle and/or bus to pack light and have durable, water resistant gear. It isn't mentioned in the product description, but I was pleasantly surprised that this Chromebook came with a 12 month accident protection warranty. To me that says a lot about Asus' confidence in the durability of their product. Admittedly, I am a big time Google user. I've had a gmail account for years and I use all the wonderful products - Drive (docs, sheets, slides, and drawings), Voice (both phone and sms), Hangouts, Keep, Calendar, etc - that google has. If you're like me in this you'll be very happy to see that this Chromebook is a natural extension of your blissful Google experience. One thing I would strongly recommend to anyone who decides to purchase this product is that you explore the help (?) section soon after you start it up for the first time. This is a Chrome OS so its slightly different than a Mac or Windows OS and will take a little getting used to. It's very intuitive and user friendly but you'll save yourself a lot of frustration if you take an hour to learn how to use it. All in all, I think this is an extraordinary product and I would highly recommend it to anyone who is looking for an inexpensive, very portable computer for school or work. In fact, we liked it so much, we bought a second one for my wife. :-)", 
+                "review_comment_count": "", 
+                "review_posted_date": "15 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Jonathan Donihue"
+            }, 
+            {
+                "review_header": "it doesnt have a caps lock button but thats okay ...", 
+                "review_text": "it doesnt have a caps lock button but thats okay because i probably shouldnt be yelling at people over the internet anyway", 
+                "review_comment_count": "2", 
+                "review_posted_date": "24 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Sebastian Martinez"
+            }, 
+            {
+                "review_header": "This cromebook rules!!!", 
+                "review_text": "This is my first chromebook. I love it.I got this to replace a first gen mini-ipad that seems to have gotten smaller as I have gotten older. It is well built, fast, has a great keyboard, and can do 99% of what I need. If you need specific work based software, use chrome remote desktop. Do not know what took me so long to buy one.", 
+                "review_comment_count": "", 
+                "review_posted_date": "24 Oct 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Quigle"
+            }, 
+            {
+                "review_header": "Great and sturdy", 
+                "review_text": "I bought this Chromebook for my mother because she liked other ASUS Chromebook model that I have. It was really easy to explain her how to use it and she is in love with it. This chromebook is amazingly built to be carried everywhere and it is really good looking. The speakers are okay, the screen looks fine, and the battery life thus far seems great. I would recommend it to anybody who understands what chromebooks are for.", 
+                "review_comment_count": "", 
+                "review_posted_date": "04 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Roxana C."
+            }
+        ], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "6%", 
+            "4 star": "16%", 
+            "3 star": "5%", 
+            "5 star": "72%"
+        }, 
+        "price": "$199.00", 
+        "url": "http://www.amazon.com/dp/B01DBGVB7K", 
+        "name": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Would definitely recommend", 
+                "review_text": "This is a great device considering the low price. It's not MacBook Pro, but it can really hold its own, and it's about one tenth of the price. I've tried other netbook-type devices in the past and they always had such limitations. This device operates just like a laptop, and allows the full functionality of MS Office, plays videos just fine, and allows for general Internet activities with decent performance and reliability. The keyboard is easy to type on, the screen is decent, it's lightweight yet feels fairly sturdy, and it's a device that just grows on you. After I first fired it up, I wasn't super impressed, but after using it a while, I am starting to really love it, and would recommend it to anyone who wants something for email, web surfing, watching videos, or even the full functionality of Word and Excel if you're a student or want to keep track of your finances.", 
+                "review_comment_count": "", 
+                "review_posted_date": "12 Dec 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " kim"
+            }, 
+            {
+                "review_header": "it does everything my Dell D630 did only better with w/10 Screen is only an inch smaller each ...", 
+                "review_text": "it does everything my Dell D630 did only better with w/10 Screen is only an inch smaller each side its fast, prints and so far does it all that I could want in a notebook", 
+                "review_comment_count": "", 
+                "review_posted_date": "09 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Jerr"
+            }, 
+            {
+                "review_header": "Recommended buy", 
+                "review_text": "Cute and small fits perfectly in my handbag. This product is decent for everyday simple office work and travel", 
+                "review_comment_count": "", 
+                "review_posted_date": "03 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " minerva"
+            }, 
+            {
+                "review_header": "Super Pleased", 
+                "review_text": "Not going to lie 95% of the reviews had me worried. However mine showed up on time, with everything working. I've had no issues, it's perfect for all the simple things I need it for.", 
+                "review_comment_count": "", 
+                "review_posted_date": "14 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "Great product for a great price", 
+                "review_text": "Great product for a great price. light weight, easy to set up. web browsing was fast. Had a small issue with touch pad not working but I reset the device and it works great now. no disk drive", 
+                "review_comment_count": "", 
+                "review_posted_date": "14 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " MrsB613"
+            }, 
+            {
+                "review_header": "Good laptop for light usage", 
+                "review_text": "Good laptop for light usage. A lil slow in Chrome, but it likely has more to do with Chrome addons. Using for graduate classes. Lightweight", 
+                "review_comment_count": "", 
+                "review_posted_date": "01 Mar 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " bluefly25"
+            }, 
+            {
+                "review_header": "Not Usable Out the Box", 
+                "review_text": "Removed all useless software and leftovers; replaced the start menu; sanitized windows 10; updated wifi drivers (and other drivers) without updating windows; completely removed pre-installed Office and reinstalled with a purchased version; ran open source cleaning/shredding software (deleted 4 Gb of junk files). After all that, it is a decent laptop (i.e. \"usable\"). Would like to explore replacing the wifi card, if that's possible. I'll need to open the back to know for sure. If you can replace the wifi card than it would be an outstanding laptop for every day use (office, email). Otherwise, it's just usable, because the wifi still goes in and out, and there is no way to connect an Ethernet chord to this. Please note, the laptop I received was used. It had fingerprint on the screen and a \"windows.old\" in the C drive.", 
+                "review_comment_count": "", 
+                "review_posted_date": "11 Apr 2017", 
+                "review_rating": "3.0 ", 
+                "review_author": " AR"
+            }, 
+            {
+                "review_header": "If you absolutely must have a laptop and can't afford better, I guess you don't have much of a ...", 
+                "review_text": "You get what you pay for...which isn't much. Painfully slow in all respects. Even after removing bloatware and disabling startup program, this thing will have you pulling your hair out. That being said, it is inexpensive, which is all it has going for it. I would save an extra 100-150 bucks and get something light years ahead of this. If you absolutely must have a laptop and can't afford better, I guess you don't have much of a choice.", 
+                "review_comment_count": "", 
+                "review_posted_date": "31 Mar 2017", 
+                "review_rating": "2.0 ", 
+                "review_author": " Mars H. Costa"
+            }
+        ], 
+        "ratings": {
+            "2 star": "7%", 
+            "1 star": "21%", 
+            "4 star": "14%", 
+            "3 star": "11%", 
+            "5 star": "47%"
+        }, 
+        "price": "$160.40", 
+        "url": "http://www.amazon.com/dp/B01MQTJXWZ", 
+        "name": "2017 Lenovo 110s Premium Built High Performance 11.6 inch HD Laptop pc Intel Celeron Dual-Core Processor 2GB RAM 32G eMMC Storage Webcam Bluetooth WiFi HDMI 1-Year Office Windows 10-White"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Great For The Price", 
+                "review_text": "It arrived today and I just set it up minus my personal settings. Nice sized laptop. Not an armored tank like my old Dell Latitude was, you'll want to protect this one, it seems a bit delicate but not too cheap looking or feeling. Luckily it fit my laptop bag just right. After the Dell finally crashed, I bought this one and for my needs, its perfect. It surfs the net pretty quick and definitely happy about that. I haven't had to wait for anything to load and plays YouTube vids just fine. I like the solid touch pad molded into the case. Touchpad will lag when you first turn on the computer and during set up, but after it comes to life. The screen is glossy, but not as sharp as I hoped, but it's still better than my old Dell was. I bought the HP X3000 laser mouse to go with it. Overall, I'm happy with it so far. Considering the price (Paid $260 here on Amazon) and the features, I'd say I made a good decision with this computer. Its only been on for about an hour and a half, I'll post an update. I hope my review helps you in you search for a new laptop. FYI This is Windows Home. You have to purchase access to Office. I write So I downloaded a free Office program that works with Windows 10. I downloaded Open Office for free. It comes with a drawing program and a presentation program, so there are alternatives to make your capabilities complete. Update: 10 Hours since turning it on. Unlike my past experiences with new computers, this one hasn't given me problems. And there are no useless programs to get rid or bloat ware. Big pluses. I like the computer. Update: 3/10/17: Ive been using it for a few days. Things I like: The indicator lights like that blinking CPU activity light is side mounted along with power indicator light, its also side mounted so the power button is not lighted. The only thing on the keyboard that is lighted is the Caps Lock key. It appears as a glowing dot. That's nice. No blinking lights to distract me. I also like the roomy, uncluttered look of the keyboard area, whatever its called, and I like the full chicklet keyboard. The computer is growing on me. It has had to \"Working on updates, do not shut off your computer\" followed by 30 or so minutes of blue screen. Its done this twice since the initial start up. Otherwise, its running well. Its a good size you can watch a movie right on your lap like a personal theater. Ive been using it on my lap, it doesn't get too hot. The sound is pretty nice. Some media you have to turn the volume all the way up, some not. The sound is good, nice clarity and sounds as if its surround sound, but don't expect much umph in it.", 
+                "review_comment_count": "", 
+                "review_posted_date": "07 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Bart Tanning"
+            }, 
+            {
+                "review_header": "Excellent as a replacement for an AGING Laptop, mine was an 8 yr. old Toshiba \"A Dinosaur by Present Standards\".", 
+                "review_text": "It's here! My new HP laptop arrived via UPS this afternoon and I've been tweaking the day away installing programs, changing settings and putting all my Favorites back in EDGE browser, thankfully I wrote down all my favorites on a piece of paper as a reference point so it was just a matter of locating all the websites on BING. I'm Happy with the LAPTOP, only things that bother me are 1- it's got no BLUETOOTH and 2- The USB 3.0 input isn't Blue as in other Laptops or PC's. Overall though, the price was low, so it's worth it. If one just wants to do homework, browse the web, read e-mails, see some movies and play some simple games, then this is the Laptop to buy. Also worth mentioning is that although lightweight, it's quite sturdy.", 
+                "review_comment_count": "", 
+                "review_posted_date": "22 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Werewolf69"
+            }, 
+            {
+                "review_header": "Love having a ten key on a smaller laptop....", 
+                "review_text": "I got this laptop 3 days ago and so far I love it. My old 15\" HP did not have a 10 key and I really missed that. The keyboard is super-responsive, which is important to me as I type several thousand words a day. Someone dinged the product as cheap and lightweight: I really like the lighter weight and that doesn't mean the materials aren't sturdy. But time will tell. I did not have the long loading times others have complained about either. So YMMV.", 
+                "review_comment_count": "", 
+                "review_posted_date": "26 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " K. K. Lappegard"
+            }, 
+            {
+                "review_header": "but so far so good!!", 
+                "review_text": "I've only had it less than a week, but so far so good!!", 
+                "review_comment_count": "", 
+                "review_posted_date": "12 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Rick Adkins"
+            }, 
+            {
+                "review_header": "Laptop is fantastic. Starting my own business in education consulting and ...", 
+                "review_text": "Laptop is fantastic. Starting my own business in education consulting and is perfect for my budget. Runs well DVD Drive is a must for video presentations", 
+                "review_comment_count": "", 
+                "review_posted_date": "06 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " B. Bozant"
+            }, 
+            {
+                "review_header": "The product arrived on time and the packaging was good. It works great for what I need it ...", 
+                "review_text": "The product arrived on time and the packaging was good. It works great for what I need it for. I did upgrade the RAM from 4GB to 8GB.", 
+                "review_comment_count": "", 
+                "review_posted_date": "12 Feb 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "Suprisingly I am really happy with it can not seem to put it down ...", 
+                "review_text": "Received today was a little skeptical about packaging as to whether my laptop is 100 percent new as advertised. However after seeing warranty I am assuming it is. Suprisingly I am really happy with it can not seem to put it down it is adequate for my needs,I love the speed and the weight compared to my retired Toshiba Sattelite L Series. I hope the happiness prevails.", 
+                "review_comment_count": "", 
+                "review_posted_date": "23 Jan 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " dwayne blenman"
+            }, 
+            {
+                "review_header": "So far so good. Excellent computer for the money", 
+                "review_text": "So far so good. Excellent computer for the money. Fast enough for surfing and researching the net. Since I don't play games I can't speak to that.The processor is good enough and the 4 GB RAM allows this computer to run quickly and efficiently. Just make sure your internet access is solid.", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " P. Christie"
+            }
+        ], 
+        "ratings": {
+            "2 star": "8%", 
+            "1 star": "15%", 
+            "4 star": "14%", 
+            "3 star": "8%", 
+            "5 star": "55%"
+        }, 
+        "price": "$252.99", 
+        "url": "http://www.amazon.com/dp/B01NBE6Y5D", 
+        "name": "2017 HP 15.6\" HD WLED Backlit Display Laptop, AMD A6-7310 Quad-Core APU 2GHz, 4GB RAM, 500GB HDD WiFi, DVD+/-RW, Webcam, Windows 10, Black"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Great little computer after removing bloatware.", 
+                "review_text": "I've had this computer for about a month. I use this laptop for my online class. I had to uninstall some bloatware and change some settings to get it to work faster, but it is a great little laptop. Don't expect to play an intensive games or edit movies with this laptop. It's good for doing work or school related things, browsing the Internet, and watching Netflix. Pros: -Very small and lightweight. I can easily lift it with one hand. -Aesthetically pleasing design. I love the purple color and the finish. -Small design makes it very portable. Easy to fit into backpacks or briefcases. -Relatively fast computer, takes no time to startup/shutdown. -Good keyboard Cons: -Speakers are pretty quiet and poor quality. Recommend using headphones for watching movies/listening to music. -Webcam is also subpar and pretty grainy. -Touchpad can be finicky, using a wireless mouse with it is really easy though. -32GB hard drive can support the operating system and not much else. That being said, a $20 64GB microSD will resolve this issue. This computer was kind of slow when I first got it. Here's what I did to make it fast: 1. Remove ALL bloatware. Uninstall Apple Bonjour, LEAP, McAfee Antivirus, HP Support & Registration, browser extensions, etc. 2. Installed all updates for Windows Update (took almost an hour). Then, disabled automatic updates. Running Windows Update in the background will overload the processor. 3. Installed CCleaner and cleaned up cache/registry 4. Installed Google Chrome and used it instead of Edge/IE Accessories I bought: -Logitech Wireless Mouse: Works great with this computer. The little wireless fob discreetly stays in the USB port. -Evecase works great for taking this computer and accessories on the go. -64GB microSD card to expand the storage space. I changed the settings so pretty much everything gets saved on there. Doesn't slow down the computer or saving at all. Overall, this computer is ideal for school and work, emails, and browsing the internet. That being said, it's great at doing those things. I think it's an excellent value for the price!", 
+                "review_comment_count": "3", 
+                "review_posted_date": "21 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Nimbus"
+            }, 
+            {
+                "review_header": "The keyboard is fantastic, and I have no issues writing for hours ...", 
+                "review_text": "I bought this laptop after doing some extensive research. I wanted a laptop that I would use primarily for writing, both personally and at work. My only requirements were that it be extremely portable and cheaper than the average laptop. Maybe the difference between me and the negative reviewers is that I bought this laptop with a complete understanding that this should not be used as a primary PC, even though it is marketed as one. It ships with quite a lot of bloatware, and I'm not computer savvy enough to get rid of all of it. I used information gleaned from other reviewers to remove a lot of what I don't need, and plan to ask someone at work to go through the rest. I inserted a 16 GB micro SD card from my old Android phone, and deleted everything on the card except for my old pictures. I still have more than enough room for both work and personal items. I use primarily Microsoft Word and Excel, so these programs don't typically take up much space. The only thing I store on the actual PC are the programs used to run it. If you don't plan to do the same thing, you're going to be upset about the storage. With how cheap thumb drives and micro SD cards are, I really don't see how my storage needs wouldn't be met. The keyboard is fantastic, and I have no issues writing for hours on it. The screen could use a little work, but the computer cost two hundred dollars. I have no issues connecting to my home or work wifi. It handles internet browsing and videos very well, but I have to be cognizant of how many programs/internet tabs I have running at once or things start to run a little more slowly. This doesn't bother me. If you're the type of person who is going to ask a lot of a machine, don't get this one. It's that simple. I would have liked to get a $1,000 laptop with a touch screen that turned into a tablet, but I didn't have the money. You're getting a lot for $200 here, and you won't be disappointed if you keep realistic expectations.", 
+                "review_comment_count": "5", 
+                "review_posted_date": "12 Sep 2016", 
+                "review_rating": "4.0 ", 
+                "review_author": " B. Duff"
+            }, 
+            {
+                "review_header": "Much improved over last year's model - twice the RAM (now 4GB) for the same price", 
+                "review_text": "The HP Stream is probably the best deal right now for a name brand $200 computer. Their 11 inch notebook now has 4 GB of RAM, up from 2GB in last year's model which does make a noticeable performance difference. The best part is the price is the same. The added RAM allows for better multitasking and better overall performance for slightly more demanding tasks. The reason is that adding the extra 2GB of RAM added an additional memory channel which feeds data to the processor faster. This resulted in faster web browsing performance and even a boost in Minecraft performance. But make no mistake: this is not a performance machine. It's good enough to run Windows and many basic apps adequately enough to get the job done but not much more than that. It might be a great choice for kids as its limited internal storage and overall performance will not play modern games all that well (if at all) but does nicely run Microsoft Office applications. Battery life is pretty workable too when running lower end stuff, hovering around 6-8 hours. The display runs on the colder side (more blue in hue) than I like but good enough for most tasks. The keyboard is very nice (my favorite out of many $200 PC's I've used), although the trackpad feels spongier than prior iterations. In short this is a good deal for those looking for a cheap PC - especially now that it has double the RAM for the same price as last year's model. ERRATA - I incorrectly stated that the processor used in this year's PC is the same as last year's. It is in fact an N3060 chip, slightly bumped in performance over last years but not significantly so. I stand by the assertion that the added channel of RAM makes a bigger performance difference on this machine.", 
+                "review_comment_count": "17", 
+                "review_posted_date": "18 Sep 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Lon J. Seidman"
+            }
+        ], 
+        "ratings": {
+            "2 star": "8%", 
+            "1 star": "16%", 
+            "4 star": "18%", 
+            "3 star": "9%", 
+            "5 star": "49%"
+        }, 
+        "price": "", 
+        "url": "http://www.amazon.com/dp/B01JLCKP34", 
+        "name": "HP Stream Laptop PC 14-ax010nr (Intel Celeron N3060, 4 GB RAM, 32 GB eMMC) with Office 365 Personal for one year"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Nice tablet", 
+                "review_text": "This tablet is loaded with features. It has a nice size keyboard where you can actually type papers and letters on a web based word processor. The processor is *very* fast, and there is no wait. Sound is very nice and loud enough to actually hear uTube videos. Lots of buttons to control the tablet in nice locations. I get 5 hours battery life watching uTube videos. It has android 6, which it is very slick and smooth. I was able to take my phone info/settings and transfer to the tablet seemlessly. I connect via wireless and it has not lost the connection from usage all day and night; mostly watching video. Where I work, everybody has a tablet. Out of the 50 or so tablets, this RCA tablet is faster, nicer, and cost 1/2 as much", 
+                "review_comment_count": "", 
+                "review_posted_date": "23 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Zhengliang Qian"
+            }, 
+            {
+                "review_header": "Highly recommend!", 
+                "review_text": "Basically it's a computer with a big screen but it is light weight! It is easy to start up and running when you get it ad works great! It has a USB port and the tablet is detachable from the buttons! It is also touch screen! HERE IS THE BEST PART: WHEN YOU CHARGE THE TABLET IT CHARGES THE KEYBOARD AT THE SAME TIME!", 
+                "review_comment_count": "", 
+                "review_posted_date": "27 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "IT DOES THE JOB!", 
+                "review_text": "it's perfect to just bring along as you travel, it bluetoots all of my other units (phoen, ipad, desktop and laptop) in expensive, but does the job!", 
+                "review_comment_count": "", 
+                "review_posted_date": "19 Jan 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " The White Knight"
+            }, 
+            {
+                "review_header": "A One...Excellent little computer...", 
+                "review_text": "Part two of my review: And before you think That I was paid to say this, you would be wrong. I basically surveyed others reviews and the specs on this computer...It is everything I was looking for and then some. Very happy the operating system Android 6.0 is the best... My previous one had windows and it was almost impossible to get the games you wanted to play..It wouldn't let me download Google..Anyway, I digress... For half the price I paid for the other one (which I returned)...This actually should be a ten star... And before you think That I was paid to say this, you would be wrong. I basically surveyed others reviews and the specs on this computer...It is everything I was looking for and then some. Very happy", 
+                "review_comment_count": "", 
+                "review_posted_date": "19 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " T. Martin"
+            }, 
+            {
+                "review_header": "Good tablet bad display.", 
+                "review_text": "This is a nice tablet. Especially for the price. It's pretty fast and I love the screen size, but the picture quality is a little lacking. It's not HD and you have to play with the screen angle a bit to get the best view thus the 4 stars. It's probably not a great choice for gaming The keyboard is excellent. Nice and roomy, it's a rather large keyboard. I use it mostly for Bible study and other Christian material. The screen size is great for reading. I have the Kindle app on it and it works just fine. I'm also a musician songwriter and I plan to put my music on it. I am pleased with the Galileo tablet and would recommend it for reading and maybe web surfing. Update, The more I live with this tablet the more I wish that I had spent a little more and got the Maven Pro. The low definition of the screen is starting to bother me. That is the only negative of this tablet. But the display is the main thing you interact with when you use it. I went ahead and ordered a Maven Pro for about $40.00 more. It actualy has an HD IPS screen. I'll review it when I've used it a bit.", 
+                "review_comment_count": "", 
+                "review_posted_date": "21 Jan 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " Alan Cargile"
+            }, 
+            {
+                "review_header": "Solid purchase", 
+                "review_text": "My daughter really loves using this. She uses it for her homework and she'll tend to remove the keyboard and watch her favorite shows.It gives her a lot of options and uses.Using various apps she is not locked into a particular software program: which is good and a frugal choice for me.", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Vince_A"
+            }, 
+            {
+                "review_header": "Highly recommend", 
+                "review_text": "Good screen, detachable pad is nice. Keys are big. Works great, easy to use. Camera works great.", 
+                "review_comment_count": "", 
+                "review_posted_date": "17 Jan 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " T Bowen"
+            }, 
+            {
+                "review_header": "Very nice tablet....with an actual keyboard", 
+                "review_text": "I wanted a slightly larger tablet with a decent keyboard with it and wow....this RCA tablet really was really the tablet I needed. It's pretty fast, actually has a decent sounding speaker and an actual USB port on it. I got a case for mine and easy to put the case on this tablet and keyboard easily detaches if you want to use it as a regular tablet. I prefer to type using the keyboard that came with it. It's really like a netbook or tiny laptop....even tho there is no DVD burner in this unit....but of course it's a tablet. Screen quality is maybe a little lower in quality compared to my prior tablet, but still very decent. It has Android 6.0 in it and seems to run quite nicely. No issues with mine and it seems to keep battery life for at least 3 hours with mine. There is an actual mouse pad on the keyboard portion of this tablet....a first for me with tablets. Really a very nice lower priced tablet that's 11 inches in size and probably would compare fairly well against rivals of the same size.", 
+                "review_comment_count": "", 
+                "review_posted_date": "28 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Stormy1"
+            }
+        ], 
+        "ratings": {
+            "2 star": "6%", 
+            "1 star": "10%", 
+            "4 star": "22%", 
+            "3 star": "5%", 
+            "5 star": "57%"
+        }, 
+        "price": "$98.90", 
+        "url": "http://www.amazon.com/dp/B01MQD63WX", 
+        "name": "2016 Premium High Performance RCA Galileo Pro 11.5\" 32GB Touchscreen Tablet Computer with Keyboard Case Quad-Core 1.3Ghz Processor 1G Memory 32GB HDD Webcam Wifi Bluetooth Android 6.0-Black"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "There is NO BETTER VALUE in laptops....Period!! I stake my 20 hours of research on it! ACER killed it with this one!", 
+                "review_text": "Let me paint a picture:My background is in purchasing, I am a research nerd. I used to spend in excess of 50 million a year for the largest retailer of its kind in my industry, I am obsessive when comparing details and am even more obsessed with getting every last ounce of value for my money. I am not the most tech savvy person you will ever meet, but I believe I am above average, and I also believe I am a realistic person with regards to my expectations. This is a fantastic laptop for the majority of people, I do not intend to do heavy gaming or run heavy/complex programs. This laptop is like the F-150 of laptops (sorry Chevy fans) , yes some people need an F-250 or even F-350 for towing/hauling, but for most people an F-150 is all they will ever need. With that said, I spent about 20 working hours comparing over 400 laptops (nerd) from all major brands, and looked at over 300 deals(super nerd) offered on laptops by all major retailers on both black friday and cyber monday. I chose this laptop for $329 on cyber monday, and although it was only $20 off, versus others that were $200 or more off, this was still the most computer for the money. Here is why to buy this laptop: 1) Newest Kaby Lake generation 7 Intel processor, low 15 watt usage and great speed for the price. Runs quiet and cool. 2) DDR4 ram, again the latest and greatest, also happens to be the cheapest ram available. Ram prices have an inverse relationship to normal consumer priced goods. Most things cost more when new, but because PC components become obsolete so quickly, when ram is first introduced this is the product being currently manufactured, which in turn means supply can easily exceed demand, which means lower prices. Once ram is no longer being actively manufactured the supply dries up and prices increase. Also ram can EASILY be added to this laptop, takes less than 5 minutes and costs exactly $24.99 for the best available, here is the link to the 4GB stick I added: https://www.amazon.com/Ballistix-16GBx2-PC4-19200-SODIMM-260-Pin/dp/B01DGOF6GE?th=1 ***Additional note about ram, I chose to purchase an additional stick of 4gb rather than a 8gb or 16gb. There is a phenomenon known as \"dual channel\" with regards to ram, the concept is that if you have 2 like sticks of ram (they need to match in a few tech specs), in the exact same size, ie: 2 sticks of 4gb of ram, your pc will be able to access both sticks of ram at the same time. If you have 2 mismatched sticks, like a 4gb and an 8gb, then the pc will access only 1 at a time. Therefore after talking to a computer genius friend of mine and doing about an hours research on this specific application, my best guess is that the extra money on the 8gb stick of ram would be a waste, two 4gb sticks of dual channel ram will out perform a 4gb and 8gb stick together for most applications. Also please note that for 99% of users 8gb of ram total is plenty. My personal opinion of adding more than 8gb of ram to this specific laptop would be like putting the most expensive Z rated tires on your honda accord, yes the tires might be rated for 200mph, but will you ever utilize it? If you do want to have more than 8gb of ram total, I would recommend purchasing 2 identical sticks of 8gb or 16gb ram to utilize dual channel. 3) Full 1080 HD LED back lit (vs LCD) Screen, pretty much unheard of for this price. LED backlit biggest advantage is it uses less energy, thus better battery life. Also has a matte finish screen, I prefer the look of a glossy screen (good for a desktop in a controlled lighting environment), but because laptops travel with you to different places, you often times have reflection problems with a glossy screen. 4) Battery life, best battery life you can get for anywhere close to 3x the cost of this pc. Please know that 12 hours is in best case scenario, meaning lowest screen brightness, and NOT playing videos or games or other CPU intensive tasks. Based on my first week of use I feel comfortable planning on a solid 7 to 10 hours of normal use. Please note that the battery is not easily removed, as one reviewer put, \"let your future self worry about that\". ****Note on battery, ACER has a specific process for breaking in your battery. If you do not follow it you WILL limit its potential. If you are too lazy to find the manual online here is my summary of what they say: Charge laptop to full (charge light turns to blue) before you ever turn it on. Then leave the laptop plugged in while the computer updates, it will not update and boot up the first time without being plugged in. As soon as updates are completed unplug the laptop and use the PC until the battery is almost dead. Then charge it to full and immediately unplug and discharge to near empty. Do this cycle a total of 3 times to condition your battery for its best longevity. 5) Back LIT keyboard, there is no other laptop back of $800 that offers a backlit keyboard that I could find. This means the keys light up when one is pushed, you will absolutely love this feature if you have never had it. Also the keys are crisp but very easy to use, I love them. 6) Easily upgrade-able. I will briefly touch on this, because other reviews have done a fine job of addressing it. Basically to turn this PC from great to ridiculously amazing do 2 things. The first is add ram (although mine operated for almost a week very well on the stock 4GB). The second is add a SSD or Solid State Hard Drive. To make a long story short the motherboard for this PC has 2 spots for a hard drive, the SATA and the m.2. The 1TB stock hard drive is installed on the sata slot. That means the m.2 slot is open. You can either purchase a traditional sata SSD and replace the existing hard drive, or purchase a m.2 SSD and have 2 hard drives. The latter is the option I chose, I am placing the operating system and programs on the SSD because it is much quicker, and I will place files (Photos, games, music, movies) on the stock drive. ***If you decide to pull the stock hard drive, you can purchase a usb case for it and turn it into an external hard drive that connects via usb cable. 7) Newest AC wifi technology for fastest speeds 8) All the other tech stuff you want like usb 3, hdmi, CD RW drive, blah blah blah. 9) Fit and finish is excellent. Speakers are also stupid good for this price range. Reason's to not buy: 1) You need more of a workhorse PC 2) You print money in your basement and don't care about value 3) You don't like Henry Fords philosophy of \"you can have any color you like as long as it is black\", because this PC only comes in the 1 color. Conclusion: Sometimes, and much more rarely than you would think, a manufacturer actually listens to customers and gives them everything they want at a great price. This laptop is a unicorn in the fact that it has ALL SOLID FEATURES, with 2 potentially weak spots for some users (ram and hard drive). But these are easily upgraded, and the truth is (regardless of what tech nerds might argue), 4gb of ram, and the included hard drive are more than adequate for the majority of users. The only real question you have to ask yourself is do you have the patience to wait, or will you pony up for 1 day shipping?", 
+                "review_comment_count": "64", 
+                "review_posted_date": "09 Dec 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Honest"
+            }, 
+            {
+                "review_header": "This is a great all around laptop if you are trying to find ...", 
+                "review_text": "This is a great all around laptop if you are trying to find something in the budget range, under $350. At the time of this review, there are no i3 7th gen 2.4GHz laptops that offer 1TB hard drives, 32GB max memory, or 1920 x 1080 screens. Other things that I found on this model that are not on similarly priced units are RJ-45 ports (most units are wireless only), Dual-Band 2.4GHz & 5GHz wi-fi capable, or have backlit keyboards. Few models in this price range have built in optical drives, 3.1 USB port, SD reader, or battery life claims of up to 12hrs like this Acer E575 Sig Ed laptop. The computer does have a plastic feel to it, but no stranger than the plastic feel of an LG4 or Samsung Galaxy phone. Carrying the laptop, it feels sleek and solid. Accessing the RAM or HD is as simple as unscrewing a panel under the laptop. Honestly, I do not know how the computer runs with 4GB RAM, because I bought a 16GB stick of RAM and now have 20GB. That and the usual \"How Can I make Windows 10 run faster\" tweaks make this laptop very responsive and meet my daughter's personal and academic needs. The last laptop I bought her was in 2006, an HP HDX-18t CoreDuo 1.8GHZ Vista laptop. It lasted 10 years, up to her senior year in HS, and just died. It cost about 3x more, had 2hrs battery life, and weighed 6+lbs. With college coming next fall, I needed something to meet her needs and my budget. Her current uses for this laptop are web surfing, Netflix/Youtube binge watching, Internet Radio, Skyping, heavy Excel sheets (+50 pages & calculations or more), Matlab, SPSS Statistics 20 for Windows. Although this is a budget laptop, it does not stick out in appearance or performance when she's studying with friends that have expensive Apple laptops or higher end notebooks. It isn't a gaming laptop, but she does run BlueStacks to play some Android games. You've got to be crazy to pass on this laptop if the main selling point for you is having 1yr MS Office or not, like I have read in other reviews. Libre Office is free and the hardware is a good value. Maybe later this year or next year (it's Oct 2016), competitors will come out with more comparative offerings, but if you need a notebook >now< , this is your best bet. Two criticisms my daughter does have about this model, is 1) the palm rest (area below the keyboard) attracts fingerprints and is showing some wear. Would be nice it it were textured like the exterior of the laptop.2) If the RJ-45 port cover could flex, retract, or hinge more. It's a very tight fit and feels like the port cover will snap in two, every time it is pushed down. Hope this review helps people who don't have much to spend, thanks Acer for putting good value in the market!", 
+                "review_comment_count": "25", 
+                "review_posted_date": "26 Oct 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Amazon-er"
+            }
+        ], 
+        "ratings": {
+            "2 star": "6%", 
+            "1 star": "14%", 
+            "4 star": "17%", 
+            "3 star": "8%", 
+            "5 star": "55%"
+        }, 
+        "price": "$349.99", 
+        "url": "http://www.amazon.com/dp/B01K1IO3QW", 
+        "name": "Acer Aspire E 15 E5-575-33BM 15.6-Inch Full HD Notebook (Intel Core i3-7100U Processor 7th Generation , 4GB DDR4,  1TB 5400RPM Hard Drive,  Intel HD Graphics 620, Windows 10 Home), Obsidian Black"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "New to Chromebooks, but becoming a convert. Acer packs value into a small package", 
+                "review_text": "I want to give a brief background of where I\u2019m coming from and what I think about the new Acer Chromebook 11. In the past I have owned a Thinkpad laptop, a Dell notebook with a touchscreen and pen, and a couple of tower desktop computers. I have also owned two Android devices. These days I mostly use an Ipad for web browsing and apps, and a desktop for word processing, printing, Microsoft office needs, the occasional game, etc. I needed something at my work that was small and light and did not need a lot of computing power. I didn\u2019t want to spend much money. After hearing about Chromebooks for a while, I did as much research as I could and decided a Chromebook fit the bill. Amazon has a ton of Chromebooks, and I was about to buy the Chromebook 11 from last year, then found an article that was 1 day old saying that Acer had just released their new 2016 version of the 2 GB Chromebook 11. They explained that this one was built to be quite durable with an aluminum lid, and that it would feature an IPS screen, for only $179. They said a 4 GB version was bound to be released soon, and I wish it were available, but I figured 2 GB is adequate for my needs. I followed the link to Amazon, and found it here. First impressions: Build quality \u2013 It is not as tightly put together as say a tablet or a high end laptop, but it feels very well made. The screen articulates well and the lid feels sturdy. The keyboard has a nice feel to it, much better than my Logitech for my iPad, and I\u2019d say just about as good as any laptop I\u2019ve used. It does have a strip of plastic between the track-pad and the space bard which is somewhat flimsy, though, and when I press down with moderate pressure, the whole middle of the keyboard flexes. Overall, though, I am impressed, especially for $179. Haven't dropped it yet, but I think it would survive. Ergonomics \u2013 The keyboard feels like a full size; the volume and power buttons are in a good place, and the keyboard is comfortable to type on. The trackpad is larger than I\u2019m used to and even the fastest setting doesn\u2019t feel fast enough for me as I usually have to lift my finger off the trackpad to get from one side of the screen to the other. I like the \u201cno buttons\u201d choice of the trackpad though, and how the whole pad just clicks down if you feel you need a click. The SIZE and WEIGHT are incredible! I guess most chrome books are this way, but I am amazed. It feels lightweight but not cheap. The keys are not backlit. Webcam is stationary, and I doubt I will ever use this with Facetime on the ipad / iphone so simple and easy. Maybe they could do a version without this and drop another $20? Display \u2013 The display looks very bright, crisp; just what you\u2019d expect from an IPS screen. Now if I can only manage to stop poking it with my touch-screen trained fingers, I expect it to last. The fact that it is not a touch-screen makes this feel more like a laptop to me. Color \u2013 It looks good in white casing with black keys (kind of like a piano), but white would not be my first choice due to the inevitability to show dirt and oil after a while. Also the exterior it textured, which feels cool, but will probably attract more dirt that way. Sound -- Volume is pretty loud. Not sure the decibels, but is is louder than an laptop, phone, or tablet I've had. I was surprised to hear what sounded like stereo Left and Right sound coming from a video, when I looked on the bottom and noticed it had two speakers. Only realistic improvement would be if they could have mounted the speakers on the front instead of the bottom. I could imagine it getting muffled if on a blanket or other soft surface. But the sound exceeded my expectations for the price for sure. Software \u2013 having no background in Chrome OS, I find this software simple and easy to understand. You can\u2019t really screw it up. Somewhat disappointed with the app store. Does not seem like a lot of high quality apps to pick from, but that is coming from an apple user (and previously android). UPDATE: the \"OK Google\" feature which allows voice searches and commands was not working. I spent an hour on a help chat with google, and they couldn't determine the problem, but finally asked me to \"Powerwash\" the machine, essentially wiping it and returning it back to factory state. It took about 2 minutes to powerwash and set it up again, and the \"OK Google\" feature miraculously worked again. I have had no other OS issues. Speed \u2013 The computer starts almost as instantly as a phone. Clicking on anything gives no lag. It is snappy, and I think it will stay that way. Youtube streams beautifully. Webpages load fast. If they had had the 4 GB version, I would have considered it, but 2 GB is not too slow for me right now. Value \u2013 Can\u2019t believe it was only $179. Great job Acer, and great job Amazon for getting it to me in a day and a half with Prime. I will make sure to update as I use it more, and if my opinion changes.", 
+                "review_comment_count": "8", 
+                "review_posted_date": "22 Jan 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Mark A. Baker"
+            }, 
+            {
+                "review_header": "Best display on a sub $200 Chromebook.", 
+                "review_text": "The Acer Chromebook 11 is probably my pick now for sub $200 Chromebooks. The reason is that it has the nicest display (IPS) you'll see at this price point on any platform from any brand.This is not a full HD display but rather a lower resolution 1366x768 display. Nevertheless it looks much better than the TN panels you'll see on other similarly priced devices. It's powered by last year's Intel N2840 Celeron processor at 2.16ghz and has 2 gigabytes of RAM and 16 gigabytes of on board storage. The Acer Chromebook 11's SD card slot does sit flush to the side of the computer though, so it does provide some opportunities for expanded storage. Performance is decent for basic web browsing tasks and on par with other devices from Acer and others at this $180 price point. The hardware overall is well constructed and it's very comfortable to type on. My only gripe is with its trackpad that requires a little too much of a push to register clicks. This is an exceptional value for $179. I do suggest that you watch my ChromeOS 101 video to learn more about what Chromebooks are and what they are not:", 
+                "review_comment_count": "10", 
+                "review_posted_date": "22 Jan 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Lon J. Seidman"
+            }, 
+            {
+                "review_header": "Great computer !!!!!", 
+                "review_text": "This small compact chromebook is just the right size.... I like the screen and like the no glare glass...easy to see outside...the keyboard is responsive...I am using this for travel and like the small lightweight size....I am retired and I despise Windows and all the updates, make some systems obsolete (Vista) I already have a Chromebook 14 \" for home use and I really love it... Chromebooks are the perfect computer for senior citizens, easy to use and no virus protection needed.", 
+                "review_comment_count": "", 
+                "review_posted_date": "19 May 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Italian Cook"
+            }, 
+            {
+                "review_header": "Fantastic, capable little laptop.", 
+                "review_text": "This review is for the clamshell model, NOT the flip model. Oh man. This is the little laptop that can. I've wanted a Chromebook for a while just as a tinker laptop. As a developer, I'm always looking for new tech to experiment with and this hasn't let me down. I find myself reaching for it more than any other device now. (Including an iPad Pro which used to be my go-to for getting on the web at home.) The size is perfect. It's not going to replace my home computer nor my development laptop. But it's the right size and weight to grab whenever I nee a computer \"right now\" to look up something, compose a quick email, etc. I even use it for presenting during our daily meetings connected to a projector. Chrome itself is superb if you're doing nothing more than using the internet. I've even found enough solutions for more fringe stuff that I want to be able to do. For example, I have a vast assortment of plain text notes stored in Dropbox that need to be accessed anywhere. I've found a fantastic Chrome OS editor (Caret) and installed the Dropbox filesystem support for Chrome OS, and now I have access to all those notes. I admit to having also opened up developer mode so I could install Ubuntu to create a web server for development as a proof of concept. I won't get much into that there, but it's something I've done. I will also admit that this isn't a fast computer. Web pages (even Google's own) are slowish to load. For most people, this will be a non-issue. For someone used to gigabit ethernet on an i7 based computer, yeah, you're going to notice it. And yet I still continue to reach for it. The keyboard is great, and the trackpad works surprisingly well. Google must have spent some time finessing the drivers because it works better in Chrome OS than it does in Ubuntu. The keyboard is good sized and the keys are adequately responsive with acceptable travel. I really enjoy typing on it. The display is ... well, great for this price point. But even though it's an IPS, it's not exactly Apple quality. But, again, at this price point, I'm thrilled with how good it IS. It's unlikely one is likely to complain about display quality at this price point. I do not believe you can find another IPS Chromebook in this price range. Battery life is phenomenal. I haven't measured it, but I have used it heavily and just been amazed that it keeps on going. I can use it all weekend and take it back to work to charge on Monday. Rather than just ramble, I'll say that this is a great deal and a fine little computer. It's not the fastest or the most feature rich, but for the price it gets the job done quite well. Enough that this power user often finds myself going to it to handle all the small tasks throughout the day. If you're on a shoestring budget (or you like to tinker) grab one and be glad you did. If you need a computer that can run everything in the sun, then you're still going to want a Windows or Mac - that's just life. But if you (like so many) do 95% of your computing on the internet, this might be the device for you.", 
+                "review_comment_count": "", 
+                "review_posted_date": "29 Aug 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " A. Falco"
+            }
+        ], 
+        "ratings": {
+            "2 star": "6%", 
+            "1 star": "11%", 
+            "4 star": "16%", 
+            "3 star": "5%", 
+            "5 star": "62%"
+        }, 
+        "price": "$249.99", 
+        "url": "http://www.amazon.com/dp/B01J42JPJG", 
+        "name": "Acer Chromebook R 11 Convertible, 11.6-Inch HD Touch, Intel Celeron N3150, 4GB DDR3L, 32GB, Chrome, CB5-132T-C1LK"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "The Pros, Cons and Oks for the HP 15-F222WM (HR).", 
+                "review_text": "Pros:__________ - It\u2019s pretty difficult to find a decent touchscreen laptop with a price this cheap. - DVD, internet browsing works fine without any lag when starting up. - Not that heavy, enough to recognize it if you put it in your bag but that\u2019s about it. - The plastic design does make this computer lighter. - Touchscreen works like a charm without any sensor errors where it might make your screen assume you\u2019re touching it when you\u2019re not. - The most basic programs such as emails and Microsoft office will work without a hitch. - Battery life true in what it provides. - Setting up the computer for the first time is quick as well. - You do have the option to upgrade the hell out of it in the long run. RAM, Drive, software, everything is a fair game as you can make this compete with the higher end competitors. Cons and Oks:__________ - The screen froze two times on me after I watch a decent amount of online videos and use other smaller programs (PowerPoint, office, ect). I don\u2019t know if this is a glitch or if this computer can\u2019t handle multi-tasking. - You can watch a movie on this but don\u2019t expect to binge watch on Netflix this because, from my experience, the computer starts to run dead slow. - 2.16 Ghz, I really don\u2019t see it in this machine as sometimes the speed isn\u2019t there at all. Keep in mind I\u2019m not using any other programs than internet browsing and video watching. - The longer you use this computer you're going to see a decrease in loading time when your internet browsing. - The keyboard isn\u2019t really comfortable and the plastic layout makes it feel extremely cheap. I understand for the price you\u2019re paying you should suspect lower in quality, but since most of the time, we\u2019ll be using the keyboard I only wish they put more effort in it. - Want technical support; you\u2019ll need to pay for it. You heard me correctly; you\u2019ll have to pay extra to get help if your computer isn\u2019t working. - A lot of bloatware - Wifi card isn\u2019t the best around as you\u2019ll see a \u201cgreat\u201d change in speed if you use an Ethernet cable. - Sometimes the keyboard sensor under the letters will not work. - Constant firmware updates Bottom Line:__________ This is a family, a kid only, take to college kind of computer. The simple tasks are all it\u2019s able to handle, and even then you still experience some errors. Keep using it and you will see that webpages upload and download rate will make you use your smartphone instead. But keep in mind it\u2019s the bare minimum for a laptop so the price is way below a touchscreen laptop. If you\u2019re on a budget than \u201cmaybe\u201d you want to take a look on this. Overall, if you\u2019re planning to buy a laptop this is the cheapest you\u2019re going to get to have a touch screen built in. Even with the price you\u2019ll still be facing a slow processor, cheap keyboard, and a weak Wi-Fi card. Verdict: spend a $100 more to have a decent laptop as less than a year you\u2019re going to be hunting for another if you buy this. But if you\u2019re surviving on pennies then this is going to be one of the cheapest layouts you\u2019re probably going to see. Hopefully I was a help to you. Love, Honest Reviewer", 
+                "review_comment_count": "21", 
+                "review_posted_date": "21 Dec 2016", 
+                "review_rating": "3.0 ", 
+                "review_author": " Honest Reviewer"
+            }, 
+            {
+                "review_header": "I love this laptop", 
+                "review_text": "I love this laptop! I would recommend it to those looking for a laptop to do everyday tasks on. The touch screen is awesome! Never had a touchscreen laptop because I never really wanted one, but after getting this, I don't ever want to go without one! HP always amazes me.", 
+                "review_comment_count": "", 
+                "review_posted_date": "15 Dec 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "Great Bang for your buck. Touchscreen :)", 
+                "review_text": "I've been looking for over a year for a laptop under 300.00 that has everything I wanted. I had a burgundy hp picked out and on the day I was going to buy I saw this one and it was 40.00 cheaper. It had touchscreen a bigger drive and faster processor, windows 10 ect. The other laptop didn't have any of these. Touchscreen sold me right there . This was easy to setup if you read the instructions ( guys ) shows you how to sync all of your devices so you can share videos, pics ect. You can take a pic with your phone and it will automatically go to your laptop n save. Just love the ease and convenience. I highly recommend this laptop. I don't remember ever seeing a pc under 300.00 that's touchscreen. There's only one complaint I have... the battery life when not plugged in could be alot longer. I think that a battery should be able to last an entire flight. Sorry I'd give it a 5 star, but battery life is pretty important issue.", 
+                "review_comment_count": "1", 
+                "review_posted_date": "04 Jan 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " Michael D. Anema"
+            }, 
+            {
+                "review_header": "I think i know why people say the computer is ...", 
+                "review_text": "I think i know why people say the computer is slower than what the processor said it is.The Box that the computer came in said the processor is a N3540 @ 2.16GHz . The computer actually has a N3710 @ 1.60GHz. I will be giving HP a call", 
+                "review_comment_count": "6", 
+                "review_posted_date": "12 Jan 2017", 
+                "review_rating": "3.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "Bad battery life.", 
+                "review_text": "It works if you leave it plugged in. battery would last about 3 hours. Keyboard is really sensitive. You get what you pay for. We returned it because of the bad battery life.", 
+                "review_comment_count": "", 
+                "review_posted_date": "12 Feb 2017", 
+                "review_rating": "2.0 ", 
+                "review_author": " Tanya"
+            }, 
+            {
+                "review_header": "Lie about battery life", 
+                "review_text": "the battery life is at 100% is 3 hours and 14 minutes not the 6 hours that they tell you.", 
+                "review_comment_count": "", 
+                "review_posted_date": "02 Feb 2017", 
+                "review_rating": "2.0 ", 
+                "review_author": " patrick hanna"
+            }, 
+            {
+                "review_header": "One Star", 
+                "review_text": "Did not work right out of box!!!!", 
+                "review_comment_count": "", 
+                "review_posted_date": "20 Jan 2017", 
+                "review_rating": "1.0 ", 
+                "review_author": " Amazon Customer"
+            }, 
+            {
+                "review_header": "So far so good", 
+                "review_text": "I purchased this as a gift for my husband, seems to work fine no problems with it running slow or freezing up. Will update if anything changes", 
+                "review_comment_count": "1", 
+                "review_posted_date": "03 Jan 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " Jessica"
+            }
+        ], 
+        "ratings": {
+            "2 star": "7%", 
+            "1 star": "20%", 
+            "4 star": "15%", 
+            "3 star": "10%", 
+            "5 star": "48%"
+        }, 
+        "price": "$271.40", 
+        "url": "http://www.amazon.com/dp/B01MRS3MIS", 
+        "name": "HP 15-F222WM 15.6\" Touch Screen Laptop (Intel Quad Core Pentium N3540 Processor, 4GB Memory, 500GB Hard Drive, Windows 10)"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "This great light but fully capable 11.6\" Chromebook has a couple of special unique features I've never seen on any other laptop", 
+                "review_text": "This laptop is light and convenient to handle, with excellent long battery life. This model has a unique feature that I love that I've not seen on any other laptop, which is the reason I bought this one: the camera rotates so it can take pictures/videos of what is in front of you as well as showing you (you are the only thing other laptop webcams can show). Another unique feature of this model is that it has a built-in retracting carrying handle. And for only about $80 more, I could have gotten it with the optional touchscreen. While an identical model is also available as a Winbook, the crucial reason that I choose the Chromebook version is the incredible ease of use that is only available in Chromebooks, just open it and it is running and ready to go immediately, and it always keeps itself updated automatically, including malware protection, so you never have to pay attention to and wait through lengthy updating processes. It just occasionally (every few weeks) asks that you click to install updates that had already downloaded in the background, by doing a quick restart that takes just a few seconds!", 
+                "review_comment_count": "", 
+                "review_posted_date": "28 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Carl Selnick"
+            }, 
+            {
+                "review_header": "Small, light and pretty darn cheap", 
+                "review_text": "It's exactly what I paid for. I just wanted a small, light, and relatively cheap laptop I could use for note taking in class, and that's exactly what I got. I read a review about them not turning on or something, and so of course I was a little worried but went for it anyways(if it goes wrong, there's always refunds). I was also worried when after pulling it out of the box and pressing the power button, it did not in fact turn on. However, I plugged it in and guess what? It turned on. So I guess it just needs a little kickstart the first time, I don't know. The keyboard is a little smaller than I'm used to, so that'll take a bit of time, but the computer itself is great. The design is simple and clean, I personally prefer black because white computers get dirty and look gross(Looking at you, Mac). This is not a touch screen, but it does have a kind of handle on it. If you close it, there will be a distinguishable little section between the joints of the screen, if you pull it, your laptop turns int a briefcase. It's actually kind of hilarious, but if you find that useful, all power to you. If you actually want a laptop that can do a bunch of things, this probably is not the one for you. Chrome OS is specifically built to run google applications. It runs Netflix, and other browser based programs as well, but I don't think external applications are really what Chromebooks are built for. As long as you understand that, these are really great computers in general, and I highly recommend them for light-load computer things(Google docs, Netflix, Amazon, etc.).", 
+                "review_comment_count": "", 
+                "review_posted_date": "14 Nov 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " cookie_monster"
+            }, 
+            {
+                "review_header": "Good bang for the buck.", 
+                "review_text": "Nice little laptop for surfing the web. Only beef I have is the off white lettering on the key tabs. Hard to see. Plus the smaller keyboard will take some getting use to. But....the laptop performs as advertised. This is my first chromebook so it will be a good starter one to see if I can migrate away from Windows.", 
+                "review_comment_count": "", 
+                "review_posted_date": "22 Jan 2017", 
+                "review_rating": "4.0 ", 
+                "review_author": " bullie76"
+            }, 
+            {
+                "review_header": "Works perfect with multiple operating systems", 
+                "review_text": "Laptop was purchased for experimentation with multiple operating systems. Along with the Google Chrome OS also running Linux and Windows 10 LTSB with zero issues.", 
+                "review_comment_count": "", 
+                "review_posted_date": "04 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Jamz"
+            }, 
+            {
+                "review_header": "Great chromebook", 
+                "review_text": "I have an Asus Chromebook, needed another one. I'm just as happy with this as my Asus. The texture and appearance is high quality. The speakers put out a great volume for the size in my opinion. For the price, this is hands down the best deal currently at $138.", 
+                "review_comment_count": "", 
+                "review_posted_date": "29 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Brendon Rose"
+            }, 
+            {
+                "review_header": "Good chromebook for a great price", 
+                "review_text": "I,ve ordered lots of them over the past years this is the slightly older model a new version is out now but theres no difference in this one and the newer model. This model is now a lot cheaper so a good deal", 
+                "review_comment_count": "", 
+                "review_posted_date": "19 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Jan-Willem Heerink"
+            }, 
+            {
+                "review_header": "Stopped working, but started again.", 
+                "review_text": "I chose this model after much research. It has everything I wanted my 12 year old son's first computer to have, plus some features that would dazzle him like the rotating web camera and the tucked away handle. I liked that it was ruggedly built with a shock resistant case because it would be carried by him back and forth to school. It fit my budget and offered all he needed for school. I even found some info online for setting up parental controls to keep him safe. I read extensively on this product before buying it, and so I knew that some buyers had power and/or OS issues \"out of the box\" or shortly thereafter. But since the overall reviews were good, I decided to roll the dice, hoping those issues were just random lemons. Then it happened to ours, just about 1 week after first using the chromebook, it froze up, died, and then would not power up again. We called customer service with Lenovo and they agreed to send us a box and postage for shipping it back to them to repair. Only the box never came. Bad marks for Lenovo's customer service for dropping that ball. I was about to call CS again about getting a shipping box when my son decided on a whim to just give it one more try. To our surprise it powered up, and the OS has not crashed again after a couple of months of usage. So I have changed my review from 2 stars to 3, still deducting some for the original problem and the failure of the CS department at Lenovo to follow through with our service issue.", 
+                "review_comment_count": "3", 
+                "review_posted_date": "09 Jan 2017", 
+                "review_rating": "3.0 ", 
+                "review_author": " James"
+            }, 
+            {
+                "review_header": "Great laptop-", 
+                "review_text": "I love this laptop. It's lightweight and compact. But it's also extremely quick and fast - nothing slow or lagging in the OS and various apps.", 
+                "review_comment_count": "", 
+                "review_posted_date": "29 Mar 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " BM89"
+            }
+        ], 
+        "ratings": {
+            "2 star": "2%", 
+            "1 star": "15%", 
+            "4 star": "15%", 
+            "3 star": "3%", 
+            "5 star": "65%"
+        }, 
+        "price": "$147.54", 
+        "url": "http://www.amazon.com/dp/B01CVKKZ60", 
+        "name": "Lenovo 80SF0001US 11.6\" HD N22 Chromebook Intel N3050 2.16GHz 4GB RAM 16GB SSD Drive Bluetooth 4.1 HDMI WiFi Chrome"
+    }, 
+    {
+        "reviews": [
+            {
+                "review_header": "Solid laptop for $500", 
+                "review_text": "The laptop has a beautiful display, and was pretty responsive. There was no crapware installed with the system, which is a nice touch. The only problem I had with this laptop is that it lacks an M.2 slot for an SSD, otherwise it would have been perfect. I did a lot of searching, and you'd be hard pressed to find another machine with a DVD-ROM that is of equivalent quality. I have no idea how the laptop will handle wear and tear, as I've only had it a week, but the build quality seems pretty good.", 
+                "review_comment_count": "", 
+                "review_posted_date": "30 Jun 2016", 
+                "review_rating": "5.0 ", 
+                "review_author": " Nick R."
+            }, 
+            {
+                "review_header": "ALL THE BELLS AND WHISTLES BUT.....NO MICROPHONE!", 
+                "review_text": "I really do like this laptop. I just found out that with all the bells and whistles that this laptop has, it does not have a microphone. It does have a webcam. With a webcam it is a MUST that you have a microphone!! Why was that not included? Now, I have to find a microphone (additional cost) that will not be bulky or cumbersome to carry around. It's a lovely device, but sad they did not complete the build properly.", 
+                "review_comment_count": "", 
+                "review_posted_date": "01 Oct 2016", 
+                "review_rating": "3.0 ", 
+                "review_author": " E8inLA"
+            }, 
+            {
+                "review_header": "Excellent Computer For the Average User", 
+                "review_text": "One of the most compelling reasons for purchasing a computer was the eventual expiration of my ten year old HP laptop. I knew my needs had changed dramatically from needing a lightning fast multi-purpose computer during my working years to a far less demanding need now that I was retired. However, I also knew that computing speed, a vibrant and sharp color display, and a large memory capacity remained needs and not wants. After much research I settled on this Dell 15.6 inch, a down-size from my previous 17+ inch screen. I'd also never had a touchscreen computer or one with backlit keys, functions that I thought would be simply extraneous but which turned out to be highly desirable functions. The display is sharp with deep colors and clearly defined edges, better than the Dell 22 inch monitor I also purchased at the same time. I've watched several movies already as well as used Microsoft Office-(not the trial version that's included but one I had purchased previously). The computing speed in loading various pages is lightning fast and well capable of handling my requests. The Windows 10 version is mostly intuitive and is a welcome step-up from previous versions. This computer also features face recognition software that allows you to bypass having to remember passwords although I'm not sure having my initial picture taken fresh out of bed was a good idea. Sometimes it doesn't recognize me but then I don't either. I highly recommend this for the student or professional who needs a sturdy, responsive machine. I don't recommend this for gamers but for those of us who consider Solitaire the pinnacle of our gaming needs, then by all means, snatch this one up. Price is very reasonable for what you get.", 
+                "review_comment_count": "", 
+                "review_posted_date": "13 Apr 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Tony R."
+            }, 
+            {
+                "review_header": "decent machine, decent price", 
+                "review_text": "Bought this model brand new towards the end of July. I wanted a new laptop with at least a 500 GB HDD. a min of 8 GB RAM, a screen size of around 15 and a decent dual core processor. I settled on this model cos' of those attributes and the arrangement of the external connectors. This is my first experience with Dell and thus far I have no serious complaints with my machine. Cosmetically, this has a very nice aesthetic design - the exterior has a smooth, sleek feel. The interior is clean but does gets dirty easily from just the slightest touch to the keypad area. Since this is a PC, Windows plays a major factor in the functionality and subsequently my rating. The first thing I had to do was rid myself of all the pre-installed bloatware. I made the huge jump from Windows 7 to Windows 10. The change in OS's is quite noticeable. I like my privacy so I turned off all of the \"helpful\" tracking settings that Microsoft has set to auto. The optical drive feels loose and flimsy, at least on my machine. I have yet to use the touch screen and have actually disabled it since I have no need for it. So, no perspective in that regard. I have the volume set to 30% and I can hear the audio quite clearly on the other side of the room, so def quality speakers. All in all this is a decent machine for just over $500 when one compares all the features that it packs to the price.", 
+                "review_comment_count": "", 
+                "review_posted_date": "14 Oct 2016", 
+                "review_rating": "4.0 ", 
+                "review_author": " Medazzaland Violator"
+            }, 
+            {
+                "review_header": "Despite the great deal we feel we got for this laptop", 
+                "review_text": "We were very excited to receive this laptop which arrived sooner than expected. Sadly, as we prepared to install the anti-virus protection, the cover on the optical drive door fell right off! Despite the great deal we feel we got for this laptop, it doesn't make sense to glue a brand new product back together! It doesn't appear to be as sturdy as my previous Dell laptop. I will be returning this item and attempt to purchase another.", 
+                "review_comment_count": "1", 
+                "review_posted_date": "16 Jan 2017", 
+                "review_rating": "3.0 ", 
+                "review_author": " Mikelyn Haines"
+            }, 
+            {
+                "review_header": "Good laptop for the price and performance", 
+                "review_text": "This is a good laptop for its price and the features it comes with, like the backlight keyboard, 1TB of hard drive space (About 930 GB in total) and 8 GB of RAM and a very nice Intel RealSense 3D Webcam, usable with small programs and Windows Hello. The Intel Core i5 6200U is decent. And just a note, it will say it has 2 cores, but when I went into Device Manager, it lists 4, and in Task Manager, it will list that it contains 2 physical cores and 4 logical processors. Basically acting similar to a quad core processor. In a nutshell, it's great for multi-tasking and can handle more than the lower end PC's, but do note heavy games won't run too well. Minecraft can run well, sometimes hitting 60 FPS at times and staying around 50 in open areas. Overwatch is slightly blurry but is smooth.", 
+                "review_comment_count": "", 
+                "review_posted_date": "21 Feb 2017", 
+                "review_rating": "5.0 ", 
+                "review_author": " Justin Torrez"
+            }, 
+            {
+                "review_header": "mouse pad BUG intolerable!", 
+                "review_text": "i really liked this computer when i first got it. the touch screen took some getting used to but after that it was nice. but ive had this laptop for about 7 months now and i HATE the computer now. the mouse pad has some sort of bug that causes your screen to freak out and the mouse jumps all over the screen randomly clicking on everything and anything. the only way to get it to stop so you can use it again is to close and reopen the laptop. this is a huge problem!!!!! it makes doing homework nearly impossible.....and the frequency is becoming greater as time goes on. now im stuck with this and have no idea how to fix it or if it's even fixable......SAVE YOUR MONEY!!!", 
+                "review_comment_count": "", 
+                "review_posted_date": "10 Apr 2017", 
+                "review_rating": "2.0 ", 
+                "review_author": " Kit-kat"
+            }
+        ], 
+        "ratings": {
+            "2 star": "9%", 
+            "1 star": "20%", 
+            "4 star": "14%", 
+            "3 star": "7%", 
+            "5 star": "50%"
+        }, 
+        "price": "$470.00", 
+        "url": "http://www.amazon.com/dp/B01D27ERMO", 
+        "name": "Dell Inspiron Flagship 15.6-Inch FHD Touchscreen Backlit Keyboard Laptop PC (Intel Core i5-6200U, 8GB RAM, 1TB HDD, RealSense 3D Camera, DVD +/- RW, Bluetooth, Windows 10), Silver"
+    }
+]
